@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BSCS3A_BOOKFIZZ.MainPage"
+             BackgroundColor="#3B394D">
+
+    <ScrollView>
+        <Grid
+            Padding="0"
+            Margin="0" >
+
+            <Ellipse
+                WidthRequest="300"
+                HeightRequest="300"
+                Fill="#F9B14A"
+                HorizontalOptions="End"
+                VerticalOptions="Start"
+                Margin="0,-150,-150,-160"/>
+
+            <Ellipse
+                WidthRequest="300"
+                HeightRequest="300"
+                Fill="#F9B14A"
+                HorizontalOptions="Start"
+                VerticalOptions="End"
+                Margin="-100,0,-150,-160" />
+
+            <Image
+                Source="peng.png"
+                WidthRequest="200"
+                HeightRequest="200"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                Aspect="AspectFit"/>
+
+            <Label
+                Text="Bookfizz"
+                FontSize="40"
+                FontAttributes="Bold"
+                TextColor="White"
+                FontFamily="IrishGrover"
+                HorizontalOptions="Center"
+                VerticalOptions="End"
+                Margin="0,300,0,190"/>
+
+        </Grid>
+    </ScrollView>
+
+</ContentPage>
