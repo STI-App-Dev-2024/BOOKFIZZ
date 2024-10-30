@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BookFizz.Followings"
+             Title="Followings"
+             BackgroundColor="#3B394D">
+
+    <Grid Padding="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <!-- Toggle Buttons for Followers and Following -->
+        <StackLayout Grid.Row="1" Orientation="Horizontal" HorizontalOptions="Center" Padding="20,10">
+            <Button x:Name="FollowersButton"
+                    Text="Followers"
+                    BackgroundColor="Orange"
+                    TextColor="White"
+                    WidthRequest="150"
+                    Clicked="OnFollowersButtonClicked"
+                    CornerRadius="20"/>
+
+            <Button x:Name="FollowingButton"
+                    Text="Following"
+                    BackgroundColor="LightGray"
+                    TextColor="Black"
+                    WidthRequest="150"
+                    Clicked="OnFollowingButtonClicked"
+                    CornerRadius="20"
+                    Margin="10,0,0,0"/>
+        </StackLayout>
+
+        <!-- List of Users (Dummy Data) -->
+        <CollectionView Grid.Row="2" x:Name="UserList" SelectionMode="None">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Orientation="Horizontal" Padding="10">
+                        <BoxView WidthRequest="50" HeightRequest="50" BackgroundColor="Gray" CornerRadius="25" />
+                        <Label Text="{Binding}" 
+                               FontSize="16" 
+                               VerticalOptions="Center" 
+                               TextColor="White"
+                               HorizontalOptions="StartAndExpand" />
+                        <Button Text="Message"
+                                BackgroundColor="Transparent"
+                                TextColor="White"
+                                VerticalOptions="Center" />
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </Grid>
+</ContentPage>

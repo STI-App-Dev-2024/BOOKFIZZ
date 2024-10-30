@@ -1,0 +1,56 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BookFizz.Categories"
+             Title="Categories"
+             BackgroundColor="#3B394D">
+
+    <ScrollView>
+        <StackLayout Padding="10">
+
+            <!-- Categories Grid -->
+                <Grid ColumnDefinitions="*,*" RowSpacing="10" ColumnSpacing="10" Margin="0,20,0,0">
+                    <!-- First Row -->
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+
+                    <!-- Category Items -->
+                    <Frame Grid.Row="0" Grid.Column="0" BackgroundColor="#F9b14a" CornerRadius="10">
+                        <Image Source="romance.png" WidthRequest="170" HeightRequest="170" Aspect="AspectFill"/>
+                    </Frame>
+
+                <Frame Grid.Row="0" Grid.Column="1" BackgroundColor="#F9b14a" CornerRadius="10">
+                        <Image Source="comedy.png" WidthRequest="170" HeightRequest="170" Aspect="AspectFill"/>
+                    </Frame>
+
+                <Frame Grid.Row="1" Grid.Column="0" BackgroundColor="#F9b14a" CornerRadius="10">
+                        <Image Source="mystery.png" WidthRequest="170" HeightRequest="170" Aspect="AspectFill"/>
+                    </Frame>
+
+                <Frame Grid.Row="1" Grid.Column="1" BackgroundColor="#F9b14a" CornerRadius="10">
+                        <Image Source="drama.png" WidthRequest="170" HeightRequest="170" Aspect="AspectFill"/>
+                    </Frame>
+
+                <Frame Grid.Row="2" Grid.Column="0" BackgroundColor="#F9b14a" CornerRadius="10">
+                        <Image Source="historical.png" WidthRequest="170" HeightRequest="170" Aspect="AspectFill"/>
+                    </Frame>
+
+                <Frame Grid.Row="2" Grid.Column="1" BackgroundColor="#F9b14a" CornerRadius="10">
+                        <Image Source="adventure.png" WidthRequest="170" HeightRequest="170" Aspect="AspectFill"/>
+                    </Frame>
+
+                <Frame Grid.Row="3" Grid.Column="0" BackgroundColor="#F9b14a" CornerRadius="10">
+                        <Image Source="fantasy.png" WidthRequest="170" HeightRequest="170" Aspect="AspectFill"/>
+                    </Frame>
+
+                <Frame Grid.Row="3" Grid.Column="1" BackgroundColor="#F9b14a" CornerRadius="10">
+                        <Image Source="action.png" WidthRequest="170" HeightRequest="170" Aspect="AspectFill"/>
+                    </Frame>
+                </Grid>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage>
+

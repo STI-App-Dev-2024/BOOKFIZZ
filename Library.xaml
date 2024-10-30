@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BookFizz.Library"
+             BackgroundColor="#38394D"
+             Shell.NavBarIsVisible="False">
+
+    <Grid RowDefinitions="Auto, *, 70">
+       
+        <!-- Middle section with lists -->
+        <ScrollView Grid.Row="1" Padding="12">
+            <StackLayout Padding="10,0" Margin="0,-10,0,0">
+                <!-- Adjusted Margin -->
+                <Label Text="Top author" FontSize="18" TextColor="White" Margin="0,3"/>
+
+                <!-- Top stories here -->
+                <Label Text="Top stories" FontSize="18" TextColor="White" Margin="0,3"/>
+                <ScrollView Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                    <StackLayout Orientation="Horizontal" Spacing="10">
+                        <Image Source="a.jpg" WidthRequest="100" HeightRequest="150" Aspect="AspectFill"/>
+                        <Image Source="b.jpg" WidthRequest="100" HeightRequest="150" Aspect="AspectFill"/>
+                        <Image Source="c.png" WidthRequest="100" HeightRequest="150" Aspect="AspectFill"/>
+                        <Image Source="c.png" WidthRequest="100" HeightRequest="150" Aspect="AspectFill"/>
+                    </StackLayout>
+                </ScrollView>
+
+                <!-- Your recent here -->
+                <Label Text="Your recent" FontSize="18" TextColor="White" Margin="0,3"/>
+                <ScrollView Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                    <StackLayout Orientation="Horizontal" Spacing="10">
+                        <Image Source="d.jpg" WidthRequest="100" HeightRequest="150" Aspect="AspectFill"/>
+                        <Image Source="e.jpg" WidthRequest="100" HeightRequest="150" Aspect="AspectFill"/>
+                        <Image Source="f.jpg" WidthRequest="100" HeightRequest="150" Aspect="AspectFill"/>
+                        <Image Source="f.jpg" WidthRequest="100" HeightRequest="150" Aspect="AspectFill"/>
+                    </StackLayout>
+                </ScrollView>
+
+                <!-- Recommendation here -->
+                <Label Text="Recommendation" FontSize="18" TextColor="White" Margin="0,3"/>
+                <ScrollView Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                    <StackLayout Orientation="Horizontal" Spacing="10">
+                        <Image Source="g.jpg" WidthRequest="100" HeightRequest="150" Aspect="AspectFill"/>
+                        <Image Source="g.jpg" WidthRequest="100" HeightRequest="150" Aspect="AspectFill"/>
+                        <Image Source="g.jpg" WidthRequest="100" HeightRequest="150" Aspect="AspectFill"/>
+                        <Image Source="g.jpg" WidthRequest="100" HeightRequest="150" Aspect="AspectFill"/>
+                        <Image Source="g.jpg" WidthRequest="100" HeightRequest="150" Aspect="AspectFill"/>
+                    </StackLayout>
+                </ScrollView>
+            </StackLayout>
+        </ScrollView>
+        <!-- Bottom navigation bar -->
+        <Grid Grid.Row="2" BackgroundColor="#F9B14A" HeightRequest="70">
+            <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand" VerticalOptions="Center">
+                <ImageButton Source="home.png" WidthRequest="47" HeightRequest="70" Clicked="NavigateToHome" Margin="5,0"/>
+                <ImageButton Source="community.png" WidthRequest="95" HeightRequest="90" Clicked="NavigateToCommunity" Margin="5,0"/>
+                <ImageButton Source="plus.png" WidthRequest="50" HeightRequest="50" Clicked="NavigateToCreatePage" Margin="5,0"/>
+                <ImageButton Source="messages.png" WidthRequest="80" HeightRequest="80" Clicked="NavigateToMessages" Margin="5,0"/>
+                <ImageButton Source="library.png" WidthRequest="67" HeightRequest="65" Clicked="NavigateToLibrary" Margin="5,0"/>
+            </StackLayout>
+        </Grid>
+    </Grid>
+</ContentPage>

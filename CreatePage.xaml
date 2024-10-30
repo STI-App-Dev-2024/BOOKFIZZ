@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BookFizz.CreatePage"
+             Title="Your Story"
+             BackgroundColor="#3B394D">
+
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Options"
+                     IconImageSource="options_icon.png" 
+                     Order="Primary"
+                     Priority="0" />
+    </ContentPage.ToolbarItems>
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="15">
+
+            <!-- Book Cover -->
+            <Frame BorderColor="Transparent" 
+                   BackgroundColor="#4A4A4A"
+                   HeightRequest="150" 
+                   HorizontalOptions="Center" 
+                   VerticalOptions="Center">
+                <StackLayout HorizontalOptions="Center" 
+                             VerticalOptions="Center">
+                    <Image Source="add_icon.png" WidthRequest="50" HeightRequest="50" />
+                    <Label Text="Add Book Cover" FontSize="Small" HorizontalOptions="Center" VerticalOptions="Center" TextColor="White" />
+                </StackLayout>
+            </Frame>
+
+            <!-- Title Input -->
+            <Entry Placeholder="TITLE" 
+                   TextColor="White"
+                   FontSize="Large"
+                   BackgroundColor="Transparent"
+                   HorizontalOptions="FillAndExpand" />
+
+            <!-- Description Input -->
+            <Entry Placeholder="Add Description" 
+                   TextColor="White"
+                   FontSize="Medium"
+                   BackgroundColor="Transparent"
+                   HorizontalOptions="FillAndExpand" />
+
+            <!-- Tags Section -->
+            <Label Text="Tags" 
+                   FontSize="Medium" 
+                   TextColor="White"
+                   FontAttributes="Bold" />
+            <HorizontalStackLayout Spacing="10">
+                <Button Text="college" 
+                        BackgroundColor="#E59430" 
+                        TextColor="White"
+                        FontAttributes="Bold" />
+                <Button Text="hacker" 
+                        BackgroundColor="#E59430" 
+                        TextColor="White"
+                        FontAttributes="Bold" />
+                <Button Text="garfield" 
+                        BackgroundColor="#E59430" 
+                        TextColor="White"
+                        FontAttributes="Bold" />
+            </HorizontalStackLayout>
+
+            <!-- Category Section -->
+            <Label Text="Category" 
+                   FontSize="Medium" 
+                   TextColor="White"
+                   FontAttributes="Bold" />
+            <Label Text="Romance" 
+                   FontSize="Small" 
+                   TextColor="LightGray" />
+
+            <!-- Copyright Section -->
+            <Label Text="Copyright" 
+                   FontSize="Medium" 
+                   TextColor="White"
+                   FontAttributes="Bold" />
+            <Label Text="All Rights Reserved" 
+                   FontSize="Small" 
+                   TextColor="LightGray" />
+
+            <!-- More Info Section -->
+            <Label Text="More info" 
+                   FontSize="Medium" 
+                   TextColor="White"
+                   FontAttributes="Bold" />
+            <Label Text="Language, Mature" 
+                   FontSize="Small" 
+                   TextColor="LightGray" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

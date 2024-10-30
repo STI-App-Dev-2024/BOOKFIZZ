@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BookFizz.PersonalInfo"
+             Title="Personal Info">
+
+    <ContentPage.Content>
+        <StackLayout Padding="20" BackgroundColor="#3B354A">
+
+            <!-- Profile Picture -->
+            <StackLayout HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Padding="0,20">
+                <Image Source="profile.png" WidthRequest="100" HeightRequest="100" />
+                <Label Text="Teddy" FontSize="24" TextColor="White" HorizontalOptions="Center" />
+            </StackLayout>
+
+            <!-- Bio Section -->
+            <Label Text="Bio" TextColor="#F7C54C" FontSize="Medium" />
+            <Editor Placeholder="Type here..." Text="{Binding Bio}" BackgroundColor="#E5E5E5" TextColor="Black" HeightRequest="80" />
+
+            <!-- Full Name -->
+            <Label Text="Full Name" TextColor="#F7C54C" FontSize="Medium" />
+            <Grid ColumnDefinitions="*, 40" Padding="0,10,0,10">
+                <Entry Text="{Binding FullName}" IsReadOnly="True" TextColor="White" BackgroundColor="Transparent" />
+                <ImageButton Source="edit_icon.png" Clicked="OnEditNameClicked" />
+            </Grid>
+
+            <!-- Email -->
+            <Label Text="Email" TextColor="#F7C54C" FontSize="Medium" />
+            <Grid ColumnDefinitions="*, 40" Padding="0,10,0,10">
+                <Entry Text="{Binding Email}" IsReadOnly="True" TextColor="White" BackgroundColor="Transparent" />
+                <ImageButton Source="edit_icon.png" Clicked="OnEditEmailClicked" />
+            </Grid>
+
+            <!-- Password -->
+            <Label Text="Password" TextColor="#F7C54C" FontSize="Medium" />
+            <Grid ColumnDefinitions="*, 40, 40" Padding="0,10,0,10">
+                <Entry Text="{Binding Password}" IsPassword="True" TextColor="White" BackgroundColor="Transparent" />
+                <ImageButton Source="eye_icon.png" Clicked="OnTogglePasswordVisibility" />
+                <ImageButton Source="edit_icon.png" Clicked="OnEditPasswordClicked" />
+            </Grid>
+
+            <!-- Date Joined -->
+            <Label Text="Date joined:" TextColor="#F7C54C" FontSize="Medium" />
+            <Label Text="09/10/2024" TextColor="White" FontSize="Small" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

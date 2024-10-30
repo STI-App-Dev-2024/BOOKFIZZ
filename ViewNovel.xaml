@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BookFizz.ViewNovel"
+             Title="" 
+             BackgroundColor="#3B394D">
+
+    <VerticalStackLayout Padding="0" Spacing="10">
+        <!-- Back Button (with event) -->
+        <Image Source="backarrow.png" 
+               WidthRequest="50" 
+               HeightRequest="50"
+               HorizontalOptions="Start">
+            <Image.GestureRecognizers>
+                <TapGestureRecognizer Tapped="OnBackButtonTapped" />
+            </Image.GestureRecognizers>
+        </Image>
+
+        <!-- Book Image -->
+        <Image Source="thelastfourthings.jpg" 
+               HeightRequest="250"
+               WidthRequest="200"
+               HorizontalOptions="Center" />
+
+        <!-- Book Details -->
+        <Label Text="THE LAST FOUR THINGS"
+               FontSize="24"
+               FontAttributes="Bold"
+               TextColor="White"
+               HorizontalOptions="Center" />
+
+        <Label Text="By: Paul Hoffman"
+               FontSize="18"
+               TextColor="White"
+               HorizontalOptions="Center" />
+
+        <!-- Genre Tags -->
+        <HorizontalStackLayout Spacing="10" HorizontalOptions="Center">
+            <Frame BackgroundColor="#F9b14a" CornerRadius="20" Padding="5">
+                <Label Text="Fantasy" TextColor="White" FontSize="14"/>
+            </Frame>
+            <Frame BackgroundColor="#F9b14a" CornerRadius="20" Padding="5">
+                <Label Text="Sci-Fi" TextColor="White" FontSize="14"/>
+            </Frame>
+            <Frame BackgroundColor="#F9b14a" CornerRadius="20" Padding="5">
+                <Label Text="Horror" TextColor="White" FontSize="14"/>
+            </Frame>
+        </HorizontalStackLayout>
+
+        <!-- Book Info -->
+        <HorizontalStackLayout HorizontalOptions="Center" Spacing="30">
+            <Label Text="250 Pages" TextColor="White"/>
+            <Label Text="10 Chapters" TextColor="White"/>
+            <Label Text="2.5k Readers" TextColor="White"/>
+        </HorizontalStackLayout>
+
+        <!-- Start Reading Button -->
+        <Button Text="Start reading"
+                BackgroundColor="#F29A2E"
+                TextColor="White"
+                FontSize="18"
+                CornerRadius="25"
+                HeightRequest="50"
+                HorizontalOptions="Center" />
+
+        <!-- About the Book -->
+        <Label Text="  About this book"
+               FontSize="20"
+               FontAttributes="Bold"
+               TextColor="White" />
+
+        <Label Text="   Short book description..."
+               FontSize="14"
+               TextColor="White" />
+
+        <!-- Ratings & Reviews -->
+        <Label Text="  Ratings &amp; Reviews"
+               FontSize="18"
+               FontAttributes="Bold"
+               TextColor="White" />
+
+        <HorizontalStackLayout>
+            <Label Text="4.9" FontSize="18" TextColor="White" VerticalOptions="Center"/>
+            <Label Text="(5k Reviews)" FontSize="14" TextColor="White" VerticalOptions="Center"/>
+        </HorizontalStackLayout>
+
+        <!-- Star Rating -->
+        <HorizontalStackLayout>
+            <Image Source="star_filled.png" WidthRequest="20" HeightRequest="20"/>
+            <Image Source="star_filled.png" WidthRequest="20" HeightRequest="20"/>
+            <Image Source="star_filled.png" WidthRequest="20" HeightRequest="20"/>
+            <Image Source="star_filled.png" WidthRequest="20" HeightRequest="20"/>
+            <Image Source="star_half.png" WidthRequest="20" HeightRequest="20"/>
+        </HorizontalStackLayout>
+
+        <!-- Review Bars -->
+        <VerticalStackLayout Spacing="10">
+            <!-- Example for one bar -->
+            <Grid>
+                <Label Text="5" TextColor="White" WidthRequest="20"/>
+                <ProgressBar Progress="0.8" HorizontalOptions="FillAndExpand" HeightRequest="8" ProgressColor="#F29A2E"/>
+            </Grid>
+            <!-- Repeat this block for the other ratings -->
+            <!-- E.g., 4 stars, 3 stars, etc. -->
+        </VerticalStackLayout>
+    </VerticalStackLayout>
+</ContentPage>

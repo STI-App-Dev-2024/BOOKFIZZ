@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:BookFizz"
+             x:Class="BookFizz.History"
+             Title="History"
+             BackgroundColor="#3B394D">
+
+    <Grid Padding="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <!-- Circular Progress for Time Usage -->
+        <Frame Grid.Row="1"
+               CornerRadius="20"
+               BackgroundColor="#FFB347"
+               Padding="15"
+               Margin="10"
+               HorizontalOptions="Center">
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <!-- Placeholder for Circular ProgressBar -->
+                <Grid WidthRequest="100" HeightRequest="100" VerticalOptions="Center">
+                    <!-- Background Circle -->
+                    <Ellipse Stroke="#000080"
+                             StrokeThickness="10"
+                             Fill="Transparent" />
+                    <!-- Circular Progress (Hardcoded for now at 50%) -->
+                    <Ellipse Stroke="#FFB347"
+                             StrokeThickness="10"
+                             Fill="Transparent"
+                             StrokeDashArray="50, 100" />
+                    <!-- This remains as is -->
+                    <Label Text="50%" 
+                           FontSize="16"
+                           FontAttributes="Bold"
+                           HorizontalOptions="Center"
+                           VerticalOptions="Center"
+                           TextColor="Black"/>
+                </Grid>
+                <StackLayout Padding="20,0" VerticalOptions="Center">
+                    <Label Text="Time Usage" FontSize="16" TextColor="Black" FontAttributes="Bold"/>
+                    <Label Text="12 hrs" FontSize="14" TextColor="Black"/>
+                </StackLayout>
+            </StackLayout>
+        </Frame>
+
+        <!-- Recent Label -->
+        <Label Grid.Row="2"
+               Text="Recent"
+               FontSize="16"
+               TextColor="White"
+               Margin="10, 10, 0, 5" />
+    </Grid>
+</ContentPage>
