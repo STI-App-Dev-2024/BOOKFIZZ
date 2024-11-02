@@ -28,6 +28,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = BSCS3A_BOOKFIZZ.AppShell.x
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[C:/Users/micka/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/ForgotPasswordPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BSCS3A_BOOKFIZZ.ForgotPasswordPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ForgotPasswordPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ForgotPasswordPage.xaml
+
 [C:/Users/micka/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = BSCS3A_BOOKFIZZ.MainPage.xaml
@@ -45,3 +51,15 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = BSCS3A_BOOKFIZZ.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/micka/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/SignUpPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BSCS3A_BOOKFIZZ.SignUpPage.xaml
+build_metadata.AdditionalFiles.TargetPath = SignUpPage.xaml
+build_metadata.AdditionalFiles.RelativePath = SignUpPage.xaml
+
+[C:/Users/micka/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/WelcomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BSCS3A_BOOKFIZZ.WelcomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = WelcomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = WelcomePage.xaml

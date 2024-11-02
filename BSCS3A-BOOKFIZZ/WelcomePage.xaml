@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BSCS3A_BOOKFIZZ.NewPage1"
+             BackgroundColor="#3B394D">
+
+    <AbsoluteLayout
+        HorizontalOptions="Center"
+        VerticalOptions="EndAndExpand" >
+
+        <Frame
+            CornerRadius="30"
+            BackgroundColor="#F9B14A"
+            WidthRequest="360"
+            HeightRequest="550"
+            BorderColor="#F9B14A"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            AbsoluteLayout.LayoutBounds ="0.5, 1, 0.9, 100"/>
+
+        <Image
+            Source="peng.png"
+            HeightRequest="200"
+            WidthRequest="200"
+            HorizontalOptions="Center"
+            VerticalOptions="End"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            AbsoluteLayout.LayoutBounds="0.50,0,300,-325"/>
+
+        <Label
+
+            Text="Bookfizz"
+            FontSize="40"
+            FontAttributes="Bold"
+            TextColor="White"
+            FontFamily="IrishGrover"
+            HorizontalOptions="Center"
+            VerticalOptions="End"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            AbsoluteLayout.LayoutBounds="0.50,0,300,-280"/>
+
+        <Button
+            Text="SIGN UP"
+            FontSize="25"
+            BackgroundColor="#3B3A4F"
+            TextColor="White"
+            FontFamily="IrishGrover"
+            CornerRadius="30"
+            WidthRequest="200"
+            HeightRequest="50"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            AbsoluteLayout.LayoutBounds="0.5,-0.3, AutoSize,AutoSize"/>
+
+        <Grid
+            Padding="20" 
+            RowDefinitions="Auto,Auto" >
+
+            <Label 
+            Text="Hello, Co-Fizz"
+            FontSize="35"
+            FontAttributes="Bold"
+            TextColor="#3B394D"
+            FontFamily="IrishGrover"
+            Grid.Row="0"
+            Margin="0,-230,300,0" />
+
+            <Label
+            WidthRequest="330"
+            Text="You’ve found your new home! At Bookfizz, we believe that every story deserves to shine. Whether you’re a reader seeking new adventures or a writer ready to share your world, you’ll find it all here!"
+            FontFamily="Lusitana"
+            FontSize="18.9"
+            TextColor="#3A3A3A"
+            Grid.Row="1"
+            Margin="0,-180,170,0"/>
+
+            <Label
+            Text="Already have an account?"
+            TextColor="#3B394D"
+            FontSize="15" 
+            FontFamily="Lusitana"
+            Grid.Row="2"
+            Margin="60,25,170,0"/>
+
+            <Label
+            Text="Log In"
+            FontAttributes="Bold"
+            TextColor="#3B394D"
+            FontSize="15" 
+            FontFamily="Lusitana"
+            Grid.Row="2"
+            Margin="225,25,170,0"/>
+
+        </Grid>
+    </AbsoluteLayout>
+</ContentPage>

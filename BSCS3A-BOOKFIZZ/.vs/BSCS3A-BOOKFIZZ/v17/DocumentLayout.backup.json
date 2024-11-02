@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\MauiProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAF40C30-1F87-43FE-BA61-B2C533147649}|BSCS3A-BOOKFIZZ.csproj|c:\\users\\micka\\source\\repos\\bscs3a-bookfizz\\bscs3a-bookfizz\\welcomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EAF40C30-1F87-43FE-BA61-B2C533147649}|BSCS3A-BOOKFIZZ.csproj|solutionrelative:welcomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAF40C30-1F87-43FE-BA61-B2C533147649}|BSCS3A-BOOKFIZZ.csproj|c:\\users\\micka\\source\\repos\\bscs3a-bookfizz\\bscs3a-bookfizz\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EAF40C30-1F87-43FE-BA61-B2C533147649}|BSCS3A-BOOKFIZZ.csproj|solutionrelative:signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF40C30-1F87-43FE-BA61-B2C533147649}|BSCS3A-BOOKFIZZ.csproj|c:\\users\\micka\\source\\repos\\bscs3a-bookfizz\\bscs3a-bookfizz\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EAF40C30-1F87-43FE-BA61-B2C533147649}|BSCS3A-BOOKFIZZ.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF40C30-1F87-43FE-BA61-B2C533147649}|BSCS3A-BOOKFIZZ.csproj|c:\\users\\micka\\source\\repos\\bscs3a-bookfizz\\bscs3a-bookfizz\\forgotpasswordpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EAF40C30-1F87-43FE-BA61-B2C533147649}|BSCS3A-BOOKFIZZ.csproj|solutionrelative:forgotpasswordpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF40C30-1F87-43FE-BA61-B2C533147649}|BSCS3A-BOOKFIZZ.csproj|c:\\users\\micka\\source\\repos\\bscs3a-bookfizz\\bscs3a-bookfizz\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EAF40C30-1F87-43FE-BA61-B2C533147649}|BSCS3A-BOOKFIZZ.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +42,67 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-10T01:57:50.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ForgotPasswordPage.xaml",
+              "DocumentMoniker": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\ForgotPasswordPage.xaml",
+              "RelativeDocumentMoniker": "ForgotPasswordPage.xaml",
+              "ToolTip": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\ForgotPasswordPage.xaml",
+              "RelativeToolTip": "ForgotPasswordPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-01T06:45:32.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\App.xaml.cs",
-              "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\App.xaml.cs",
-              "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T01:44:02.081Z",
+              "Title": "SignUpPage.xaml",
+              "DocumentMoniker": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\SignUpPage.xaml",
+              "RelativeDocumentMoniker": "SignUpPage.xaml",
+              "ToolTip": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\SignUpPage.xaml",
+              "RelativeToolTip": "SignUpPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-01T06:31:27.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "MauiProgram.cs",
-              "ToolTip": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\MauiProgram.cs",
-              "RelativeToolTip": "MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T01:43:21.291Z",
+              "Title": "WelcomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\WelcomePage.xaml",
+              "RelativeDocumentMoniker": "WelcomePage.xaml",
+              "ToolTip": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\WelcomePage.xaml",
+              "RelativeToolTip": "WelcomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-10T02:16:09.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-10T01:53:33.839Z",
               "EditorCaption": ""
             }
           ]
