@@ -57,10 +57,25 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Images\a.png" />
+	  <None Remove="Resources\Images\add.png" />
 	  <None Remove="Resources\Images\back.png" />
 	  <None Remove="Resources\Images\bbook.png" />
+	  <None Remove="Resources\Images\bel.png" />
+	  <None Remove="Resources\Images\com.png" />
 	  <None Remove="Resources\Images\goo.png" />
+	  <None Remove="Resources\Images\h.png" />
+	  <None Remove="Resources\Images\home.png" />
+	  <None Remove="Resources\Images\lib.png" />
+	  <None Remove="Resources\Images\mes.png" />
+	  <None Remove="Resources\Images\not.png" />
+	  <None Remove="Resources\Images\o.png" />
+	  <None Remove="Resources\Images\plus.png" />
+	  <None Remove="Resources\Images\prof.png" />
 	  <None Remove="Resources\Images\qr.png" />
+	  <None Remove="Resources\Images\see.png" />
+	  <None Remove="Resources\Images\t.png" />
+	  <None Remove="Resources\Images\u.png" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -79,7 +94,16 @@
 	  <MauiXaml Update="ForgotPasswordPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="SignUpPage.xaml">
+	  <MauiXaml Update="homepage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="ViewModel\RealSignUpPage1.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="ViewModel\RealSignUpPage2.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="ViewModel\SignUpPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="WelcomePage.xaml">

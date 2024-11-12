@@ -6,4 +6,9 @@ public partial class ForgotPasswordPage : ContentPage
 	{
 		InitializeComponent();
 	}
+
+    private async void forgotpassBtn_Clicked(object sender, EventArgs e)
+    {
+        await Navigation.PushModalAsync(new SignUpPage());
+    }
 }

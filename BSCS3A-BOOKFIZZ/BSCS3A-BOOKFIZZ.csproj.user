@@ -11,7 +11,16 @@
     <MauiXaml Update="ForgotPasswordPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="SignUpPage.xaml">
+    <MauiXaml Update="homepage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="ViewModel\RealSignUpPage1.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="ViewModel\RealSignUpPage2.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="ViewModel\SignUpPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
     <MauiXaml Update="WelcomePage.xaml">
