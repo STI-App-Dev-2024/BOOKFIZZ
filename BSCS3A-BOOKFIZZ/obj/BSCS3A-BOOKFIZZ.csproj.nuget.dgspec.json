@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ.csproj": {}
+    "C:\\Users\\roxanne palma\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ.csproj": {
+    "C:\\Users\\roxanne palma\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ.csproj",
+        "projectUniqueName": "C:\\Users\\roxanne palma\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ.csproj",
         "projectName": "BSCS3A-BOOKFIZZ",
-        "projectPath": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ.csproj",
-        "packagesPath": "C:\\Users\\micka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\obj\\",
+        "projectPath": "C:\\Users\\roxanne palma\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ.csproj",
+        "packagesPath": "C:\\Users\\roxanne palma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\roxanne palma\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\micka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\roxanne palma\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

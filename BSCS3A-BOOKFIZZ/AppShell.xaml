@@ -10,6 +10,11 @@
 
     ContentTemplate="{DataTemplate local:homepage}"
     Route="homepage" />
+    <ShellContent
+
+ContentTemplate="{DataTemplate local:NewPage1}"
+Route="homepage" />
+    
     
 </Shell>
     

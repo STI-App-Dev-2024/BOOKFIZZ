@@ -60,6 +60,15 @@
         HeightRequest="55"
         AbsoluteLayout.LayoutFlags="PositionProportional"
         AbsoluteLayout.LayoutBounds="2.9,0, 400,640" />
+        <Image
+    x:Name="SelectedImage"
+    HeightRequest="100"
+    WidthRequest="100"
+    Aspect="AspectFill"
+    VerticalOptions="Center"
+    HorizontalOptions="Center"
+    AbsoluteLayout.LayoutFlags="PositionProportional"
+    AbsoluteLayout.LayoutBounds="0.5, 0.4, 0.25, 0.25" />
 
     <Label
         Text="Select Profile"

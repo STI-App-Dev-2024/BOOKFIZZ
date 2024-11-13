@@ -6,10 +6,11 @@ public partial class NewPage1 : ContentPage
 	{
 		InitializeComponent();
 	}
-
+	//welcomepage
     private async void SignUpButton_Clicked(object sender, EventArgs e)
     {
 		await Navigation.PushModalAsync(new RealSignUpPage1());
         
     }
+
 }

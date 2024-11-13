@@ -9,6 +9,7 @@ public partial class homepage : ContentPage
 
     private void Notif_Clicked(object sender, EventArgs e)
     {
+        
 
     }
 
