@@ -1,29 +1,30 @@
-namespace BSCS3A_BOOKFIZZ;
-
-public partial class RealSignUpPage1 : ContentPage
+namespace BSCS3A_BOOKFIZZ
 {
-    public RealSignUpPage1()
-    {
-        InitializeComponent();
-    }
 
-    private async void Backsign_Clicked(object sender, EventArgs e)
+    public partial class RealSignUpPage1 : ContentPage
     {
-        if (Navigation.NavigationStack.Count > 1)
+        public RealSignUpPage1()
         {
-
-            Navigation.PopModalAsync();
+            InitializeComponent();
         }
-    }
+
+        private async void Backsign_Clicked(object sender, EventArgs e)
+        {
+            await Shell.Current.GoToAsync(".");
+            {
 
 
-    private async void NextBtn_Clicked(object sender, EventArgs e)
-    {
-        await Navigation.PushModalAsync(new RealSignUpPage2());
-    }
+            }
+        }
 
-    private void addBtn_Clicked(object sender, EventArgs e)
-    {
 
+        private async void NextBtn_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushModalAsync(new RealSignUpPage2());
+        }
+
+        private void addBtn_Clicked(object sender, EventArgs e)
+        {
+        }
     }
 }

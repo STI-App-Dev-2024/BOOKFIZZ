@@ -60,6 +60,7 @@
 	  <None Remove="Resources\Images\a.png" />
 	  <None Remove="Resources\Images\add.png" />
 	  <None Remove="Resources\Images\back.png" />
+	  <None Remove="Resources\Images\backnotif.png" />
 	  <None Remove="Resources\Images\bbook.png" />
 	  <None Remove="Resources\Images\bel.png" />
 	  <None Remove="Resources\Images\com.png" />
@@ -67,8 +68,10 @@
 	  <None Remove="Resources\Images\h.png" />
 	  <None Remove="Resources\Images\home.png" />
 	  <None Remove="Resources\Images\lib.png" />
+	  <None Remove="Resources\Images\logonotif.png" />
 	  <None Remove="Resources\Images\mes.png" />
 	  <None Remove="Resources\Images\not.png" />
+	  <None Remove="Resources\Images\notfisetting.png" />
 	  <None Remove="Resources\Images\o.png" />
 	  <None Remove="Resources\Images\plus.png" />
 	  <None Remove="Resources\Images\prof.png" />
@@ -95,6 +98,9 @@
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="homepage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="NotificationPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="ViewModel\RealSignUpPage1.xaml">

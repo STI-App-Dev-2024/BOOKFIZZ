@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAF40C30-1F87-43FE-BA61-B2C533147649}|BSCS3A-BOOKFIZZ.csproj|c:\\users\\micka\\source\\repos\\bscs3a-bookfizz\\bscs3a-bookfizz\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAF40C30-1F87-43FE-BA61-B2C533147649}|BSCS3A-BOOKFIZZ.csproj|solutionrelative:homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAF40C30-1F87-43FE-BA61-B2C533147649}|BSCS3A-BOOKFIZZ.csproj|c:\\users\\micka\\source\\repos\\bscs3a-bookfizz\\bscs3a-bookfizz\\viewmodel\\realsignuppage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF40C30-1F87-43FE-BA61-B2C533147649}|BSCS3A-BOOKFIZZ.csproj|solutionrelative:viewmodel\\realsignuppage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF40C30-1F87-43FE-BA61-B2C533147649}|BSCS3A-BOOKFIZZ.csproj|c:\\users\\micka\\source\\repos\\bscs3a-bookfizz\\bscs3a-bookfizz\\notificationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EAF40C30-1F87-43FE-BA61-B2C533147649}|BSCS3A-BOOKFIZZ.csproj|solutionrelative:notificationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF40C30-1F87-43FE-BA61-B2C533147649}|BSCS3A-BOOKFIZZ.csproj|c:\\users\\micka\\source\\repos\\bscs3a-bookfizz\\bscs3a-bookfizz\\notificationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF40C30-1F87-43FE-BA61-B2C533147649}|BSCS3A-BOOKFIZZ.csproj|solutionrelative:notificationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF40C30-1F87-43FE-BA61-B2C533147649}|BSCS3A-BOOKFIZZ.csproj|c:\\users\\micka\\source\\repos\\bscs3a-bookfizz\\bscs3a-bookfizz\\viewmodel\\realsignuppage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EAF40C30-1F87-43FE-BA61-B2C533147649}|BSCS3A-BOOKFIZZ.csproj|solutionrelative:viewmodel\\realsignuppage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAF40C30-1F87-43FE-BA61-B2C533147649}|BSCS3A-BOOKFIZZ.csproj|c:\\users\\micka\\source\\repos\\bscs3a-bookfizz\\bscs3a-bookfizz\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -22,20 +34,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\AppShell.xaml",
               "RelativeDocumentMoniker": "AppShell.xaml",
               "ToolTip": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\AppShell.xaml",
               "RelativeToolTip": "AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-12T06:19:51.004Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RealSignUpPage1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\ViewModel\\RealSignUpPage1.xaml.cs",
+              "RelativeDocumentMoniker": "ViewModel\\RealSignUpPage1.xaml.cs",
+              "ToolTip": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\ViewModel\\RealSignUpPage1.xaml.cs",
+              "RelativeToolTip": "ViewModel\\RealSignUpPage1.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:35:59.52Z",
               "EditorCaption": ""
             },
             {
@@ -44,28 +68,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "homepage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\homepage.xaml.cs",
-              "RelativeDocumentMoniker": "homepage.xaml.cs",
-              "ToolTip": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\homepage.xaml.cs",
-              "RelativeToolTip": "homepage.xaml.cs",
+              "DocumentIndex": 3,
+              "Title": "RealSignUpPage1.xaml",
+              "DocumentMoniker": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\ViewModel\\RealSignUpPage1.xaml",
+              "RelativeDocumentMoniker": "ViewModel\\RealSignUpPage1.xaml",
+              "ToolTip": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\ViewModel\\RealSignUpPage1.xaml",
+              "RelativeToolTip": "ViewModel\\RealSignUpPage1.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T10:29:37.661Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T03:19:00.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "NotificationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\NotificationPage.xaml.cs",
+              "RelativeDocumentMoniker": "NotificationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\NotificationPage.xaml.cs",
+              "RelativeToolTip": "NotificationPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:16:41.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "homepage.xaml",
               "DocumentMoniker": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\homepage.xaml",
               "RelativeDocumentMoniker": "homepage.xaml",
               "ToolTip": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\homepage.xaml",
               "RelativeToolTip": "homepage.xaml",
-              "ViewState": "AgIAAI4AAAAAAAAAAAAAAKMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-12T07:33:27.554Z",
+              "WhenOpened": "2024-11-13T03:02:37.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\NotificationPage.xaml",
+              "RelativeDocumentMoniker": "NotificationPage.xaml",
+              "ToolTip": "C:\\Users\\micka\\source\\repos\\BSCS3A-BOOKFIZZ\\BSCS3A-BOOKFIZZ\\NotificationPage.xaml",
+              "RelativeToolTip": "NotificationPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T00:46:51.797Z",
               "EditorCaption": ""
             }
           ]

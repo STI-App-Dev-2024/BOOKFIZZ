@@ -1065,3 +1065,7 @@ C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-and
 C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-android\resizetizer\r\drawable\lib.png
 C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-android\resizetizer\r\drawable\mes.png
 C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-android\resizetizer\r\drawable\prof.png
+C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-android\resizetizer\r\drawable\add.png
+C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-android\resizetizer\r\drawable\backnotif.png
+C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-android\resizetizer\r\drawable\logonotif.png
+C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-android\resizetizer\r\drawable\notfisetting.png
