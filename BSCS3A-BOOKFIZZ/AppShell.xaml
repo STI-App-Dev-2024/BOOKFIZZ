@@ -8,8 +8,18 @@
 
     <ShellContent
 
+<<<<<<< HEAD
     ContentTemplate="{DataTemplate local:NotificationPage}"
     Route="NotificationPage" />
+=======
+    ContentTemplate="{DataTemplate local:homepage}"
+    Route="homepage" />
+    <ShellContent
+
+ContentTemplate="{DataTemplate local:NewPage1}"
+Route="homepage" />
+    
+>>>>>>> c8088262794ced46510eec5250f02b616ae3de45
     
 </Shell>
     
