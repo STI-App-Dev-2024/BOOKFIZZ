@@ -4,6 +4,9 @@
 <dict>
   <key>UIAppFonts</key>
   <array>
+	<string>IrishGrover-Regular.ttf</string>
+	<string>Judson-Regular.ttf</string>
+	<string>Lusitana-Bold.ttf</string>
 	<string>OpenSans-Regular.ttf</string>
 	<string>OpenSans-Semibold.ttf</string>
   </array>

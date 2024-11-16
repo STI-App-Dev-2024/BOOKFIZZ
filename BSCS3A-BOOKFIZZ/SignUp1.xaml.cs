@@ -33,6 +33,11 @@ namespace BSCS3A_BOOKFIZZ
             // Simulate saving data or passing it to the next page
             Navigation.PushAsync(new SignUp2(user));
         }
+
+        private void AddPicture_Clicked(object sender, EventArgs e)
+        {
+
+        }
     }
 
     // Temporary User class to hold data (can be extended to support database)

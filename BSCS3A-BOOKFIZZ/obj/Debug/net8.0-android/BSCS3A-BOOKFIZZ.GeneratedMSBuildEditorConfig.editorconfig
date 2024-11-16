@@ -12,59 +12,89 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BSCS3A_BOOKFIZZ
-build_property.ProjectDir = C:\Users\roxanne palma\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\
+build_property.ProjectDir = C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/roxanne palma/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/App.xaml]
+[C:/Users/micka/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = BSCS3A_BOOKFIZZ.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/roxanne palma/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/AppShell.xaml]
+[C:/Users/micka/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = BSCS3A_BOOKFIZZ.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/roxanne palma/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/LogIn.xaml]
+[C:/Users/micka/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/CommunityPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BSCS3A_BOOKFIZZ.CommunityPage.xaml
+build_metadata.AdditionalFiles.TargetPath = CommunityPage.xaml
+build_metadata.AdditionalFiles.RelativePath = CommunityPage.xaml
+
+[C:/Users/micka/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/CommunityPost.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BSCS3A_BOOKFIZZ.CommunityPost.xaml
+build_metadata.AdditionalFiles.TargetPath = CommunityPost.xaml
+build_metadata.AdditionalFiles.RelativePath = CommunityPost.xaml
+
+[C:/Users/micka/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/ForgotPass.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BSCS3A_BOOKFIZZ.ForgotPass.xaml
+build_metadata.AdditionalFiles.TargetPath = ForgotPass.xaml
+build_metadata.AdditionalFiles.RelativePath = ForgotPass.xaml
+
+[C:/Users/micka/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/LogIn.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = BSCS3A_BOOKFIZZ.LogIn.xaml
 build_metadata.AdditionalFiles.TargetPath = LogIn.xaml
 build_metadata.AdditionalFiles.RelativePath = LogIn.xaml
 
-[C:/Users/roxanne palma/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/MainPage.xaml]
+[C:/Users/micka/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = BSCS3A_BOOKFIZZ.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/roxanne palma/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/Resources/Styles/Colors.xaml]
+[C:/Users/micka/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/Notification.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BSCS3A_BOOKFIZZ.Notification.xaml
+build_metadata.AdditionalFiles.TargetPath = Notification.xaml
+build_metadata.AdditionalFiles.RelativePath = Notification.xaml
+
+[C:/Users/micka/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/NotificationSettings.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BSCS3A_BOOKFIZZ.NotificationSettings.xaml
+build_metadata.AdditionalFiles.TargetPath = NotificationSettings.xaml
+build_metadata.AdditionalFiles.RelativePath = NotificationSettings.xaml
+
+[C:/Users/micka/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = BSCS3A_BOOKFIZZ.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/roxanne palma/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/Resources/Styles/Styles.xaml]
+[C:/Users/micka/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = BSCS3A_BOOKFIZZ.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/Users/roxanne palma/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/SignUp1.xaml]
+[C:/Users/micka/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/SignUp1.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = BSCS3A_BOOKFIZZ.SignUp1.xaml
 build_metadata.AdditionalFiles.TargetPath = SignUp1.xaml
 build_metadata.AdditionalFiles.RelativePath = SignUp1.xaml
 
-[C:/Users/roxanne palma/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/SignUp2.xaml]
+[C:/Users/micka/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/SignUp2.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = BSCS3A_BOOKFIZZ.SignUp2.xaml
 build_metadata.AdditionalFiles.TargetPath = SignUp2.xaml
 build_metadata.AdditionalFiles.RelativePath = SignUp2.xaml
 
-[C:/Users/roxanne palma/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/WelcomePage.xaml]
+[C:/Users/micka/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/WelcomePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = BSCS3A_BOOKFIZZ.WelcomePage.xaml
 build_metadata.AdditionalFiles.TargetPath = WelcomePage.xaml

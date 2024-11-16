@@ -13,13 +13,13 @@
         HorizontalOptions="Center"
         VerticalOptions="Center"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="0,0,535,355"/>
+        AbsoluteLayout.LayoutBounds="0,0,535,290"/>
 
         <Frame
         CornerRadius="30"
         BackgroundColor="#F9B14A"
         WidthRequest="360"
-        HeightRequest="830"
+        HeightRequest="780"
         BorderColor="#F9B14A"
         AbsoluteLayout.LayoutFlags="PositionProportional"
         AbsoluteLayout.LayoutBounds ="0.5, 1, 0.9, 100"/>
@@ -31,44 +31,19 @@
         FontSize="55"
         FontFamily="IrishGrover"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="0.63,0,500,455"/>
+        AbsoluteLayout.LayoutBounds="0.63,0,500,360"/>
 
-        <Frame
+        <Button
+        x:Name="AddPicture"
+        Clicked="AddPicture_Clicked"
         WidthRequest="100"
         HeightRequest="100"
         CornerRadius="50"
         BackgroundColor="White"
         BorderColor="Black"
-        HasShadow="False"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="2.9,0, 400,640"/>
-
-        <ImageButton
-        
-        WidthRequest="55"
-        HeightRequest="55"
-        AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="2.9,0, 400,640" />
-        
-        <Image
-  
-    HeightRequest="100"
-    WidthRequest="100"
-    Aspect="AspectFill"
-    VerticalOptions="Center"
-    HorizontalOptions="Center"
-    AbsoluteLayout.LayoutFlags="PositionProportional"
-    AbsoluteLayout.LayoutBounds="0.5, 0.4, 0.25, 0.25" />
-
-        <Image
-    x:Name="SelectedImage"
-    HeightRequest="100"
-    WidthRequest="100"
-    Aspect="AspectFill"
-    VerticalOptions="Center"
-    HorizontalOptions="Center"
-    AbsoluteLayout.LayoutFlags="PositionProportional"
-    AbsoluteLayout.LayoutBounds="0.5, 0.4, 0.25, 0.25" />
+        AbsoluteLayout.LayoutBounds="2.9,0, 400,585"
+        ImageSource="plus.png"/>
 
         <Label
         Text="Select Profile"
@@ -86,7 +61,7 @@
         FontFamily="Lusitana"
         TextColor="Black"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="-0.3,17,400,700"/>
+        AbsoluteLayout.LayoutBounds="-0.3,1,400,315"/>
 
         <Frame
         CornerRadius="10"
@@ -95,7 +70,7 @@
         BackgroundColor="#80808080"
         BorderColor="#80808080"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="0.49,0, 400,850"/>
+        AbsoluteLayout.LayoutBounds="0.49,0, 400,795"/>
 
         <Entry
         x:Name="FirstName"
@@ -105,7 +80,7 @@
         FontFamily="Lusitana"
         TextColor="Black"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="-0.30,-2.4,400,890"/>
+        AbsoluteLayout.LayoutBounds="-0.30,-2.4,400,822"/>
 
         <Label
         Text="Middle Name"
@@ -114,7 +89,7 @@
         FontFamily="Lusitana"
         TextColor="Black"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="-0.26,-2.7,400,889"/>
+        AbsoluteLayout.LayoutBounds="-0.26,-2.7,400,823"/>
 
         <Frame
         CornerRadius="10"
@@ -123,7 +98,7 @@
         BackgroundColor="#80808080"
         BorderColor="#80808080"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="0.5,-0.47, 400,865"/>
+        AbsoluteLayout.LayoutBounds="0.5,-0.47, 400,807"/>
 
         <Entry
         x:Name="MiddleName"
@@ -133,7 +108,7 @@
         FontSize="20" 
         FontFamily="Lusitana"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="-0.30,-2.5,400,914"/>
+        AbsoluteLayout.LayoutBounds="-0.30,-2.5,400,845"/>
 
         <Label
         Text="Last Name"
@@ -142,7 +117,7 @@
         FontFamily="Lusitana"
         TextColor="Black"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="-0.27,-2.7,400,918"/>
+        AbsoluteLayout.LayoutBounds="-0.27,-2.7,400,849"/>
 
         <Frame
         CornerRadius="10"
@@ -151,7 +126,7 @@
         BackgroundColor="#80808080"
         BorderColor="#80808080"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="0.5,-0.47, 400,945"/>
+        AbsoluteLayout.LayoutBounds="0.5,-0.47, 400,880"/>
 
         <Entry
         x:Name="LastName"
@@ -161,7 +136,7 @@
         FontSize="20"
         FontFamily="Lusitana"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="-0.35,-2.5,400,945"/>
+        AbsoluteLayout.LayoutBounds="-0.35,-2.5,400,873"/>
 
         <Button
         x:Name="NextBtn"
@@ -175,7 +150,7 @@
         WidthRequest="290"
         HeightRequest="60"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="0.5,0, 400,1300"/>
+        AbsoluteLayout.LayoutBounds="0.5,0, 400,1225"/>
 
 
 

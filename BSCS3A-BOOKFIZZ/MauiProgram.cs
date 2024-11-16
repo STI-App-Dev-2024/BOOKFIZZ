@@ -13,6 +13,9 @@ namespace BSCS3A_BOOKFIZZ
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
+                    fonts.AddFont("IrishGrover-Regular.ttf", "IrishGrover");
+                    fonts.AddFont("Lusitana-Bold.ttf", "Lusitana");
+                    fonts.AddFont("Judson-Regular.ttf", "Judson");
                 });
 
 #if DEBUG
