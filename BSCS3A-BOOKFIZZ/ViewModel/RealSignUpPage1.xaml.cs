@@ -1,8 +1,7 @@
 
 using Microsoft.Maui.Controls;
-using Microsoft.Maui.Media; // Import media-related namespaces
+using Microsoft.Maui.Media; 
 using System;
->>>>>>> c8088262794ced46510eec5250f02b616ae3de45
 namespace BSCS3A_BOOKFIZZ
 {
 
