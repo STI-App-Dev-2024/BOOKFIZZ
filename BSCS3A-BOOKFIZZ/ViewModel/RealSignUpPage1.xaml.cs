@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 using Microsoft.Maui.Controls;
 using Microsoft.Maui.Media; // Import media-related namespaces
 using System;
@@ -14,7 +13,7 @@ namespace BSCS3A_BOOKFIZZ
             InitializeComponent();
         }
 
-<<<<<<< HEAD
+
         private async void Backsign_Clicked(object sender, EventArgs e)
         {
             await Shell.Current.GoToAsync(".");
@@ -32,7 +31,7 @@ namespace BSCS3A_BOOKFIZZ
 
         private void addBtn_Clicked(object sender, EventArgs e)
         {
-=======
+
         private void OnEntryTextChanged(object sender, TextChangedEventArgs e)
         {
             // Check if all fields have text (are not empty or whitespace)
@@ -97,7 +96,7 @@ namespace BSCS3A_BOOKFIZZ
         {
             // Navigate back to the previous page
             await Navigation.PopAsync();
->>>>>>> c8088262794ced46510eec5250f02b616ae3de45
+
         }
     }
 }
