@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BSCS3A_BOOKFIZZ.SignUp2"
+             BackgroundColor="#3B394D">
+    <AbsoluteLayout>
+
+        <Image
+        Source="peng.png"
+        HeightRequest="300"
+        WidthRequest="300"
+        HorizontalOptions="Center"
+        VerticalOptions="Center"
+        AbsoluteLayout.LayoutFlags="PositionProportional"
+        AbsoluteLayout.LayoutBounds="0,0,535,355"/>
+
+        <Frame
+        CornerRadius="30"
+        BackgroundColor="#F9B14A"
+        WidthRequest="360"
+        HeightRequest="830"
+        BorderColor="#F9B14A"
+        AbsoluteLayout.LayoutFlags="PositionProportional"
+        AbsoluteLayout.LayoutBounds ="0.5, 1, 0.9, 100"/>
+
+        <Label
+        Text="Welcome"
+        WidthRequest="300"
+        HeightRequest="300"
+        FontSize="55"
+        FontFamily="IrishGrover"
+        AbsoluteLayout.LayoutFlags="PositionProportional"
+        AbsoluteLayout.LayoutBounds="0.63,0,500,455"/>
+
+        <Label
+        Text="Username"
+        FontSize="20"
+        FontAttributes="Bold"
+        FontFamily="Lusitana"
+        TextColor="#BF000000"
+        AbsoluteLayout.LayoutFlags="PositionProportional"
+        AbsoluteLayout.LayoutBounds="-0.2,13.5,400,700"/>
+
+        <Frame
+        CornerRadius="10"
+        HeightRequest="45"
+        WidthRequest="350"
+        BackgroundColor="#80808080"
+        BorderColor="#80808080"
+        AbsoluteLayout.LayoutFlags="PositionProportional"
+        AbsoluteLayout.LayoutBounds="0.49,0, 400,695"/>
+
+        <Entry
+        x:Name="EntryUser"
+        Placeholder="Enter username"
+        PlaceholderColor="#80000000"
+        FontSize="20"
+        FontFamily="Lusitana"
+        TextColor="Black"
+        AbsoluteLayout.LayoutFlags="PositionProportional"
+        AbsoluteLayout.LayoutBounds="-0.30,-2.4,400,857"/>
+
+        <Label
+        Text="Email"
+        FontSize="20"
+        FontAttributes="Bold"
+        FontFamily="Lusitana"
+        TextColor="Black"
+        AbsoluteLayout.LayoutFlags="PositionProportional"
+        AbsoluteLayout.LayoutBounds="-0.3,17,400,700"/>
+
+        <Frame
+        CornerRadius="10"
+        HeightRequest="45"
+        WidthRequest="350"
+        BackgroundColor="#80808080"
+        BorderColor="#80808080"
+        AbsoluteLayout.LayoutFlags="PositionProportional"
+        AbsoluteLayout.LayoutBounds="0.49,0, 400,850"/>
+
+        <Entry
+        x:Name="EntryEmail"
+        Placeholder="Enter your email"
+        PlaceholderColor="#80000000"
+        FontSize="20"
+        FontFamily="Lusitana"
+        TextColor="Black"
+        AbsoluteLayout.LayoutFlags="PositionProportional"
+        AbsoluteLayout.LayoutBounds="-0.30,-2.4,400,890"/>
+
+        <Label
+        Text="Password"
+        FontSize="20"
+        FontAttributes="Bold"
+        FontFamily="Lusitana"
+        TextColor="Black"
+        AbsoluteLayout.LayoutFlags="PositionProportional"
+        AbsoluteLayout.LayoutBounds="-0.26,-2.7,400,889"/>
+
+        <Frame
+        CornerRadius="10"
+        HeightRequest="45"
+        WidthRequest="350"
+        BackgroundColor="#80808080"
+        BorderColor="#80808080"
+        AbsoluteLayout.LayoutFlags="PositionProportional"
+        AbsoluteLayout.LayoutBounds="0.5,-0.47, 400,865"/>
+
+        <Entry
+        x:Name="EntryPass"
+        IsPassword="True"
+        Placeholder="Enter your password"
+        PlaceholderColor="#80000000"
+        FontSize="20"
+        TextColor="Black"
+        FontFamily="Lusitana"
+        AbsoluteLayout.LayoutFlags="PositionProportional"
+        AbsoluteLayout.LayoutBounds="-0.30,-2.5,400,913"/>
+
+        <ImageButton
+        x:Name="CreatePassEye"
+        Clicked="CreatePassEye_Clicked"
+        Source="eye.png"
+        WidthRequest="35"
+        HeightRequest="35"
+        AbsoluteLayout.LayoutFlags="PositionProportional"
+        AbsoluteLayout.LayoutBounds="0,0.70, 650,20"/>
+
+        <Label
+        Text="Confirm password"
+        FontSize="20"
+        FontAttributes="Bold"
+        FontFamily="Lusitana"
+        TextColor="Black"
+        AbsoluteLayout.LayoutFlags="PositionProportional"
+        AbsoluteLayout.LayoutBounds="-0.27,-2.7,400,918"/>
+
+        <Frame
+        CornerRadius="10"
+        HeightRequest="45"
+        WidthRequest="350"
+        BackgroundColor="#80808080"
+        BorderColor="#80808080"
+        AbsoluteLayout.LayoutFlags="PositionProportional"
+        AbsoluteLayout.LayoutBounds="0.5,-0.47, 400,945"/>
+
+        <Entry
+        x:Name="reenter"
+        IsPassword="True"
+        Placeholder="Re-enter Password"
+        PlaceholderColor="#80000000"
+        FontSize="20"
+        FontFamily="Lusitana"
+        TextColor="Black"
+        AbsoluteLayout.LayoutFlags="PositionProportional"
+        AbsoluteLayout.LayoutBounds="-0.35,-2.5,400,944"/>
+
+        <ImageButton
+        x:Name="reentereye"
+        Clicked="reentereye_Clicked"
+        Source="eye.png"
+        WidthRequest="35"
+        HeightRequest="35"
+        AbsoluteLayout.LayoutFlags="PositionProportional"
+        AbsoluteLayout.LayoutBounds="0,0.80, 650,-2"/>
+
+        <Button
+        x:Name="CreateButton"
+        BackgroundColor="#2D3340"
+        Text="Create Account"
+        TextColor="White"
+        FontSize="30"
+        FontFamily="IrishGrover"
+        CornerRadius="10"
+        WidthRequest="290"
+        HeightRequest="60"
+        AbsoluteLayout.LayoutFlags="PositionProportional"
+        AbsoluteLayout.LayoutBounds="0.5,0, 400,1300"
+        Clicked="Button_Clicked"/>
+
+    </AbsoluteLayout>
+</ContentPage>
