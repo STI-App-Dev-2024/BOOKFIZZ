@@ -6,4 +6,9 @@ public partial class CommunityPost : ContentPage
 	{
 		InitializeComponent();
 	}
+
+    private void postCommunity_Clicked(object sender, EventArgs e)
+    {
+
+    }
 }

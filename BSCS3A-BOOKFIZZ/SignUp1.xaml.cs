@@ -6,6 +6,7 @@ namespace BSCS3A_BOOKFIZZ
         public SignUp1()
         {
             InitializeComponent();
+            Shell.SetNavBarIsVisible(this, false);
         }
 
         private void NextBtn_Clicked(object sender, EventArgs e)

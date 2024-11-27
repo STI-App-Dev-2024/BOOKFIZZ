@@ -65,6 +65,7 @@ namespace BSCS3A_BOOKFIZZ
 
             // Simulate account creation
             await DisplayAlert("Success", $"Account created for {username}!", "OK");
+            Navigation.PushModalAsync(new MainPage());
 
             // Reset fields after successful registration
             EntryUser.Text = string.Empty;

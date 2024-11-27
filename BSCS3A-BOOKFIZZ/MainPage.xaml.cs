@@ -7,8 +7,9 @@
             InitializeComponent();
         }
 
-        private void Notif_Clicked(object sender, EventArgs e)
+        private async void Notif_Clicked(object sender, EventArgs e)
         {
+            await Navigation.PushModalAsync(new Notification());
 
         }
 

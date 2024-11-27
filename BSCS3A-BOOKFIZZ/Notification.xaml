@@ -33,7 +33,7 @@
 
         <Label
          Text="Notification"
-         FontSize="25"
+         FontSize="22"
          FontFamily="Lusitana"
          TextColor="White"
          AbsoluteLayout.LayoutFlags="PositionProportional"

@@ -6,4 +6,14 @@ public partial class Notification : ContentPage
 	{
 		InitializeComponent();
 	}
+
+    private void backnotif_Clicked(object sender, EventArgs e)
+    {
+
+    }
+
+    private void NotifSetting_Clicked(object sender, EventArgs e)
+    {
+
+    }
 }
