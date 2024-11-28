@@ -59,18 +59,23 @@ namespace BSCS3A_BOOKFIZZ
         }
 
         // Event handler for Forgot Password label (you can modify it later)
-        private async void ForgotPassword_Clicked(object sender, EventArgs e)
-        {
+        //private async void ForgotPassword_Clicked(object sender, EventArgs e)
+        //{
             // You can navigate to a "Forgot Password" page or show a dialog for resetting the password
-            await DisplayAlert("Forgot Password", "Redirecting to reset password page.", "OK");
+           // await DisplayAlert("Forgot Password", "Redirecting to reset password page.", "OK");
             // Example: Navigate to password reset page
             // await Navigation.PushAsync(new ResetPasswordPage());
-        }
+        //}
 
         private async void backLogin_Clicked(object sender, EventArgs e)
         { 
             await Navigation.PopModalAsync();
 
+        }
+
+        private async void TapGestureRecognizer_Tapped(object sender, TappedEventArgs e)
+        {
+            await Navigation.PushModalAsync(new ForgotPass());
         }
     }
 }

@@ -7,8 +7,8 @@ public partial class ForgotPass : ContentPage
 		InitializeComponent();
 	}
 
-    private void forgotpassBtn_Clicked(object sender, EventArgs e)
+    private async void forgotpassBtn_Clicked(object sender, EventArgs e)
     {
-
+        await Navigation.PopModalAsync();
     }
 }

@@ -7,6 +7,7 @@
             InitializeComponent();
 
             MainPage = new AppShell();
+            MainPage = new NavigationPage(new ForgotPass());
             MainPage = new NavigationPage(new AccountPage());
             MainPage = new NavigationPage(new LogIn());
             MainPage = new NavigationPage(new SignUp2(new User()));
