@@ -375,3 +375,9 @@ C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-ios
 C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-ios\ios-arm64\BSCS3A-BOOKFIZZ.pdb
 C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-ios\ios-arm64\BSCS3A-BOOKFIZZ.genruntimeconfig.cache
 C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-ios\ios-arm64\ref\BSCS3A-BOOKFIZZ.dll
+C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-ios\ios-arm64\resizetizer\sp\bokplassh_8FECAF8965C57FB2BCA421B1C3331B2713FBEBF094DE237789D572F736DCC177.png
+C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-ios\ios-arm64\resizetizer\sp\bokplassh_8FECAF8965C57FB2BCA421B1C3331B2713FBEBF094DE237789D572F736DCC177@2x.png
+C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-ios\ios-arm64\resizetizer\sp\bokplassh_8FECAF8965C57FB2BCA421B1C3331B2713FBEBF094DE237789D572F736DCC177@3x.png
+C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-ios\ios-arm64\resizetizer\sp\MauiInfo.plist
+C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-ios\ios-arm64\resizetizer\sp\MauiSplash.storyboard
+C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-ios\ios-arm64\resizetizer\r\Resources\peng.png

@@ -6,11 +6,18 @@ namespace BSCS3A_BOOKFIZZ
         private bool isPasswordVisible = false;
         private bool isReenterPasswordVisible = false;
         private readonly User _user;
+
         public SignUp2(User user)
-		{
+        {
 			InitializeComponent();
             _user = user;
 		}
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+            NavigationPage.SetHasNavigationBar(this, false);
+        }
+
         private void CreatePassEye_Clicked(object sender, EventArgs e)
         {
             // Toggle password visibility for the main password field
@@ -72,6 +79,11 @@ namespace BSCS3A_BOOKFIZZ
             EntryEmail.Text = string.Empty;
             EntryPass.Text = string.Empty;
             reenter.Text = string.Empty;
+        }
+
+        private async void backsign2_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PopModalAsync();
         }
     }
 }

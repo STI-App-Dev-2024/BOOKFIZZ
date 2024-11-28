@@ -2102,3 +2102,15 @@ C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-and
 C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-android\resizetizer\r\drawable\peng.png
+C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\bin\Debug\net8.0-android\Microsoft.Maui.Controls.HotReload.Forms.dll
+C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\bin\Debug\net8.0-android\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\bin\Debug\net8.0-android\Microsoft.VisualStudio.DesignTools.TapContract.dll
+C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-android\BSCS3A-B.D7F44A34.Up2Date
+C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-android\android\assets\Microsoft.Maui.Controls.HotReload.Forms.dll
+C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-android\android\assets\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-android\android\assets\Microsoft.VisualStudio.DesignTools.TapContract.dll
+C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-android\resizetizer\r\drawable\bely.png
+C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-android\resizetizer\r\drawable\accprof.png
+C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-android\resizetizer\r\drawable\follow.png
+C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-android\resizetizer\r\drawable\his.png
+C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-android\resizetizer\r\drawable\out.png

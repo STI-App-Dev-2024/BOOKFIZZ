@@ -33,7 +33,7 @@ AbsoluteLayout.LayoutBounds="-0.9,0,400,140"/>
 
         <Label
  Text="Community"
- FontSize="25"
+ FontSize="20"
  FontFamily="Lusitana"
  TextColor="White"
  AbsoluteLayout.LayoutFlags="PositionProportional"

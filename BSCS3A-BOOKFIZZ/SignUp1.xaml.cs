@@ -6,10 +6,10 @@ namespace BSCS3A_BOOKFIZZ
         public SignUp1()
         {
             InitializeComponent();
-            Shell.SetNavBarIsVisible(this, false);
+            
         }
 
-        private void NextBtn_Clicked(object sender, EventArgs e)
+        private async void NextBtn_Clicked(object sender, EventArgs e)
         {
             // Get user input from the form fields
             string firstName = FirstName.Text?.Trim();
@@ -32,12 +32,17 @@ namespace BSCS3A_BOOKFIZZ
             };
 
             // Simulate saving data or passing it to the next page
-            Navigation.PushAsync(new SignUp2(user));
+            await Navigation.PushModalAsync(new SignUp2(user));
         }
 
         private void AddPicture_Clicked(object sender, EventArgs e)
         {
 
+        }
+
+        private async void backsign1_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PopModalAsync();
         }
     }
 

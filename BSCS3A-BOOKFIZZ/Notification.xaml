@@ -25,7 +25,7 @@
          AbsoluteLayout.LayoutBounds="-0.2,0.1,145,-90"/>
 
         <Image
-         Source="logonotif.png"
+         Source="bely.png"
          HeightRequest="30"
          WidthRequest="30"
          AbsoluteLayout.LayoutFlags="PositionProportional"

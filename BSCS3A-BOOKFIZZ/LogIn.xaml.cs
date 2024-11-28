@@ -1,14 +1,20 @@
 namespace BSCS3A_BOOKFIZZ
 {
 
-	public partial class LogIn : ContentPage
-	{
-		public LogIn()
-		{
-			InitializeComponent();
+    public partial class LogIn : ContentPage
+    {
+        public LogIn()
+        {
+            InitializeComponent();
 
-		}
+        }
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+            NavigationPage.SetHasNavigationBar(this, false);
+        }
         private void LoginBtn_Clicked(object sender, EventArgs e)
+
         {
             // Hardcoded credentials for now. Replace this logic later with database authentication
             string username = ((Entry)this.FindByName("LoginUsername")).Text;
@@ -59,6 +65,12 @@ namespace BSCS3A_BOOKFIZZ
             await DisplayAlert("Forgot Password", "Redirecting to reset password page.", "OK");
             // Example: Navigate to password reset page
             // await Navigation.PushAsync(new ResetPasswordPage());
+        }
+
+        private async void backLogin_Clicked(object sender, EventArgs e)
+        { 
+            await Navigation.PopModalAsync();
+
         }
     }
 }

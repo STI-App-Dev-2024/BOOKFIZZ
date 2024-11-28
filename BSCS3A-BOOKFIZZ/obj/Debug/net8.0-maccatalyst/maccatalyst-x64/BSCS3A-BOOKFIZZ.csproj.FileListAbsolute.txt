@@ -363,3 +363,4 @@ C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-mac
 C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\BSCS3A-BOOKFIZZ.pdb
 C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\BSCS3A-BOOKFIZZ.genruntimeconfig.cache
 C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\BSCS3A-BOOKFIZZ.dll
+C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\peng.png

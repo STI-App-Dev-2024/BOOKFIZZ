@@ -7,9 +7,17 @@
             InitializeComponent();
 
             MainPage = new AppShell();
-            MainPage = new NavigationPage(new WelcomePage());
+            MainPage = new NavigationPage(new AccountPage());
+            MainPage = new NavigationPage(new LogIn());
+            MainPage = new NavigationPage(new SignUp2(new User()));
             MainPage = new NavigationPage(new SignUp1());
+            MainPage = new NavigationPage(new MainPage());
+            MainPage = new NavigationPage(new WelcomePage());
             
+
+
         }
+
     }
 }
+

@@ -6,7 +6,12 @@
         {
             InitializeComponent();
         }
-
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+            NavigationPage.SetHasNavigationBar(this, false);
+        }
+        
         private async void Notif_Clicked(object sender, EventArgs e)
         {
             await Navigation.PushModalAsync(new Notification());
@@ -18,9 +23,9 @@
 
         }
 
-        private void Profile_Clicked(object sender, EventArgs e)
+        private async void Profile_Clicked(object sender, EventArgs e)
         {
-
+            await Navigation.PushModalAsync(new AccountPage());
         }
 
         private void Search_Clicked(object sender, EventArgs e)
@@ -33,9 +38,9 @@
 
         }
 
-        private void Community_Clicked(object sender, EventArgs e)
+        private async void Community_Clicked(object sender, EventArgs e)
         {
-
+            await Navigation.PushModalAsync(new CommunityPage());
         }
 
         private void createadd_Clicked(object sender, EventArgs e)

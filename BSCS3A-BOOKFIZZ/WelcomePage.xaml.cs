@@ -6,6 +6,12 @@ public partial class WelcomePage : ContentPage
     {
         InitializeComponent();
     }
+    protected override void OnAppearing()
+    {
+        base.OnAppearing();
+        NavigationPage.SetHasNavigationBar(this, false);
+    }
+
 
     private async void SignUpButton_Clicked(object sender, EventArgs e)
     {
@@ -17,6 +23,6 @@ public partial class WelcomePage : ContentPage
 
         // You can add further functionality like navigating to a new page
         // Example: await Navigation.PushAsync(new SomeOtherPage());
-        await Navigation.PushAsync(new LogIn());
+        await Navigation.PushModalAsync(new LogIn());
     }
 }

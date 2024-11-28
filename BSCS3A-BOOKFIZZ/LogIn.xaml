@@ -8,12 +8,13 @@
     <AbsoluteLayout>
 
         <ImageButton
-            x:Name="LogInBackBtn"
-            Source="back.png"
-            HeightRequest="35"
-            WidthRequest="35"
-            AbsoluteLayout.LayoutFlags="PositionProportional"
-            AbsoluteLayout.LayoutBounds="0, 1, 50, 1380"/>
+        x:Name="backLogin"
+        Clicked="backLogin_Clicked"
+        Source="backnotif.png"
+        HeightRequest="40"
+        WidthRequest="40"
+        AbsoluteLayout.LayoutFlags="PositionProportional"
+        AbsoluteLayout.LayoutBounds="-0.2,0.1,145,-90"/>
 
         <Frame
             CornerRadius="30"
@@ -25,7 +26,7 @@
             AbsoluteLayout.LayoutBounds ="0.5, 1, 0.9, 100"/>
 
         <Image
-            Source="bbook.png"
+            Source="book.png"
             HeightRequest="250"
             WidthRequest="250"
             HorizontalOptions="Center"
@@ -61,6 +62,7 @@
             AbsoluteLayout.LayoutBounds="0.5,-0.47, 400,850"/>
 
         <Entry
+            x:Name="LoginUsername"
             Placeholder="Enter Email or Username"
             PlaceholderColor="#80000000"
             FontSize="20"

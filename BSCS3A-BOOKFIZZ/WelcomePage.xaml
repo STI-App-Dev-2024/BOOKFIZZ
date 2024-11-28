@@ -19,7 +19,7 @@
             AbsoluteLayout.LayoutBounds ="0.5, 1, 0.9, 100"/>
 
         <Image
-            Source="bok.png"
+            Source="peng.png"
             HeightRequest="200"
             WidthRequest="200"
             HorizontalOptions="Center"
@@ -67,10 +67,10 @@
             Margin="0,-210,300,0" />
 
             <Label
-            WidthRequest="330"
+            WidthRequest="326"
             Text="You’ve found your new home! At Bookfizz, we believe that every story deserves to shine. Whether you’re a reader seeking new adventures or a writer ready to share your world, you’ll find it all here!"
             FontFamily="Lusitana"
-            FontSize="18.9"
+            FontSize="17.5"
             TextColor="#3A3A3A"
             Grid.Row="1"
             Margin="0,-160,170,0"/>

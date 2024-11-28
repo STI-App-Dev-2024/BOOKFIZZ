@@ -9,16 +9,16 @@
     Title="BSCS3A_BOOKFIZZ">
 
     <ShellContent
-        Title="WelcomePage"
-        ContentTemplate="{DataTemplate local:WelcomePage}"/>
+        Title="SignUp1"
+        ContentTemplate="{DataTemplate local:SignUp1}"/>
     
     <ShellContent
         Title="LogIn"
         ContentTemplate="{DataTemplate local:LogIn}"  />
 
     <ShellContent
-        Title="SignUp1"
-        ContentTemplate="{DataTemplate local:SignUp1}"/>
+        Title="WelcomePage"
+        ContentTemplate="{DataTemplate local:WelcomePage}"/>
 
     <ShellContent
         Title="SignUp2"

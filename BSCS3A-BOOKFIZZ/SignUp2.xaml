@@ -7,32 +7,41 @@
    
     <AbsoluteLayout>
 
+        <ImageButton
+        x:Name="backsign2"
+        Clicked="backsign2_Clicked"
+        Source="backnotif.png"
+        HeightRequest="40"
+        WidthRequest="40"
+        AbsoluteLayout.LayoutFlags="PositionProportional"
+        AbsoluteLayout.LayoutBounds="-0.2,0.1,145,-90"/>
+
         <Image
-    Source="peng.png"
-    HeightRequest="300"
-    WidthRequest="300"
-    HorizontalOptions="Center"
-    VerticalOptions="Center"
-    AbsoluteLayout.LayoutFlags="PositionProportional"
-    AbsoluteLayout.LayoutBounds="0,0,535,290"/>
+Source="peng.png"
+HeightRequest="290"
+WidthRequest="290"
+HorizontalOptions="Center"
+VerticalOptions="Center"
+AbsoluteLayout.LayoutFlags="PositionProportional"
+AbsoluteLayout.LayoutBounds="0,0,535,330"/>
 
         <Frame
-    CornerRadius="30"
-    BackgroundColor="#F9B14A"
-    WidthRequest="360"
-    HeightRequest="780"
-    BorderColor="#F9B14A"
-    AbsoluteLayout.LayoutFlags="PositionProportional"
-    AbsoluteLayout.LayoutBounds ="0.5, 1, 0.9, 100"/>
+CornerRadius="30"
+BackgroundColor="#F9B14A"
+WidthRequest="360"
+HeightRequest="860"
+BorderColor="#F9B14A"
+AbsoluteLayout.LayoutFlags="PositionProportional"
+AbsoluteLayout.LayoutBounds ="0.5, 1, 0.9, 100"/>
 
         <Label
-    Text="Welcome"
-    WidthRequest="300"
-    HeightRequest="300"
-    FontSize="55"
-    FontFamily="IrishGrover"
-    AbsoluteLayout.LayoutFlags="PositionProportional"
-    AbsoluteLayout.LayoutBounds="0.63,0,500,360"/>
+Text="Welcome"
+WidthRequest="300"
+HeightRequest="300"
+FontSize="55"
+FontFamily="IrishGrover"
+AbsoluteLayout.LayoutFlags="PositionProportional"
+AbsoluteLayout.LayoutBounds="0.63,0,500,430"/>
 
         <Label
         Text="Username"
@@ -41,7 +50,7 @@
         FontFamily="Lusitana"
         TextColor="#BF000000"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="-0.2,4,400,600"/>
+        AbsoluteLayout.LayoutBounds="-0.2,2.5,400,598"/>
 
         <Frame
         CornerRadius="10"
@@ -50,7 +59,7 @@
         BackgroundColor="#80808080"
         BorderColor="#80808080"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="0.49,0, 400,620"/>
+        AbsoluteLayout.LayoutBounds="0.49,0, 400,720"/>
 
         <Entry
         x:Name="EntryUser"
@@ -60,7 +69,7 @@
         FontFamily="Lusitana"
         TextColor="Black"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="-0.3,0.47,400,50"/>
+        AbsoluteLayout.LayoutBounds="-0.3,0.52,400,75"/>
 
         <Label
         Text="Email"
@@ -69,7 +78,7 @@
         FontFamily="Lusitana"
         TextColor="Black"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="-0.3,1,400,330"/>
+        AbsoluteLayout.LayoutBounds="-0.3,1,400,338"/>
 
         <Frame
         CornerRadius="10"
@@ -78,7 +87,7 @@
         BackgroundColor="#80808080"
         BorderColor="#80808080"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="0.49,0, 400,763"/>
+        AbsoluteLayout.LayoutBounds="0.49,0, 400,865"/>
 
         <Entry
         x:Name="EntryEmail"
@@ -88,16 +97,16 @@
         FontFamily="Lusitana"
         TextColor="Black"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="-0.3,-10.5,400,700"/>
+        AbsoluteLayout.LayoutBounds="-0.3,-5.2,400,801"/>
 
         <Label
-        Text="Password"
+        Text="Create Password"
         FontSize="20"
         FontAttributes="Bold"
         FontFamily="Lusitana"
         TextColor="Black"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="-0.26,-1.8,400,893"/>
+        AbsoluteLayout.LayoutBounds="-0.26,-2.5,400,905"/>
 
         <Frame
         CornerRadius="10"
@@ -106,7 +115,7 @@
         BackgroundColor="#80808080"
         BorderColor="#80808080"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="0.5,-0.47, 400,793"/>
+        AbsoluteLayout.LayoutBounds="0.5,-0.47, 400,870"/>
 
         <Entry
         x:Name="EntryPass"
@@ -117,7 +126,7 @@
         TextColor="Black"
         FontFamily="Lusitana"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="-0.30,-2.5,400,839"/>
+        AbsoluteLayout.LayoutBounds="-0.30,-2.5,400,915"/>
 
         <ImageButton
         x:Name="CreatePassEye"
@@ -126,7 +135,7 @@
         WidthRequest="35"
         HeightRequest="35"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="0,0.70, 650,45"/>
+        AbsoluteLayout.LayoutBounds="0,0.70, 650,6"/>
 
         <Label
         Text="Confirm password"
@@ -135,7 +144,7 @@
         FontFamily="Lusitana"
         TextColor="Black"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="-0.26,-3.6,400,800"/>
+        AbsoluteLayout.LayoutBounds="-0.26,-3.6,400,870"/>
 
         <Frame
         CornerRadius="10"
@@ -144,7 +153,7 @@
         BackgroundColor="#80808080"
         BorderColor="#80808080"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="0.5,-0.47, 400,869"/>
+        AbsoluteLayout.LayoutBounds="0.5,-0.47, 400,950"/>
 
         <Entry
         x:Name="reenter"
@@ -155,7 +164,7 @@
         FontFamily="Lusitana"
         TextColor="Black"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="-0.35,-0.9,400,1230"/>
+        AbsoluteLayout.LayoutBounds="-0.35,-0.9,400,1345"/>
 
         <ImageButton
         x:Name="reentereye"
@@ -164,7 +173,7 @@
         WidthRequest="35"
         HeightRequest="35"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="0,0.795, 650,-1.99"/>
+        AbsoluteLayout.LayoutBounds="0,0.795, 650,-30"/>
 
         <Button
         x:Name="CreateButton"
@@ -177,7 +186,7 @@
         WidthRequest="290"
         HeightRequest="60"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="0.5,0, 400,1205"
+        AbsoluteLayout.LayoutBounds="0.5,0, 400,1330"
         Clicked="Button_Clicked"/>
 
     </AbsoluteLayout>

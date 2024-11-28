@@ -18,6 +18,15 @@ build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptOut =
 build_property.CsWinRTCcwLookupTableGeneratorEnabled = true
 build_property.CsWinRTMergeReferencedActivationFactories = 
 build_property.CsWinRTAotWarningLevel = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/micka/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/AccountPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BSCS3A_BOOKFIZZ.AccountPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AccountPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AccountPage.xaml
 
 [C:/Users/micka/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
