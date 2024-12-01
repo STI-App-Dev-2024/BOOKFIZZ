@@ -7,9 +7,10 @@ public partial class AccountPage : ContentPage
 		InitializeComponent();
 	}
 
-    private void backprofile_Clicked(object sender, EventArgs e)
+    private async void backprofile_Clicked(object sender, EventArgs e)
     {
-
+        await Navigation.PopModalAsync();
+    
     }
 
     private void ProfileAccount_Clicked(object sender, EventArgs e)

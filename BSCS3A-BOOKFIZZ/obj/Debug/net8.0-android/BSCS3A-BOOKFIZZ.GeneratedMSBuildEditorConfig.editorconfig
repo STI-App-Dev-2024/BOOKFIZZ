@@ -90,6 +90,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = BSCS3A_BOOKFIZZ.Resources.
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
+[C:/Users/micka/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/SearchPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BSCS3A_BOOKFIZZ.SearchPage.xaml
+build_metadata.AdditionalFiles.TargetPath = SearchPage.xaml
+build_metadata.AdditionalFiles.RelativePath = SearchPage.xaml
+
 [C:/Users/micka/source/repos/BSCS3A-BOOKFIZZ/BSCS3A-BOOKFIZZ/SignUp1.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = BSCS3A_BOOKFIZZ.SignUp1.xaml

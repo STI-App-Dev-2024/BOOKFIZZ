@@ -28,9 +28,9 @@
             await Navigation.PushModalAsync(new AccountPage());
         }
 
-        private void Search_Clicked(object sender, EventArgs e)
+        private async void Search_Clicked(object sender, EventArgs e)
         {
-
+            await Navigation.PushModalAsync(new SearchPage());
         }
 
         private void Home_Clicked(object sender, EventArgs e)
@@ -56,6 +56,11 @@
         private void Library_Clicked(object sender, EventArgs e)
         {
 
+        }
+
+        private async void TapGestureRecognizer_Tapped(object sender, TappedEventArgs e)
+        {
+            await Navigation.PushModalAsync(new SearchPage());
         }
     }
 

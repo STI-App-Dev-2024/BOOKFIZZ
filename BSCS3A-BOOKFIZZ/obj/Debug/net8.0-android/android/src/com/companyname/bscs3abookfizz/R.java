@@ -11619,6 +11619,7 @@ public final class R {
     public static final int test_level_drawable=0x7f0700fc;
     public static final int tooltip_frame_dark=0x7f0700fd;
     public static final int tooltip_frame_light=0x7f0700fe;
+    public static final int xx=0x7f0700ff;
   }
   public static final class id {
     public static final int ALT=0x7f080000;

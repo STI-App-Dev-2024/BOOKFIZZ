@@ -7,13 +7,13 @@ public partial class CommunityPage : ContentPage
 		InitializeComponent();
 	}
 
-    private void Communityback_Clicked(object sender, EventArgs e)
+    private async void Communityback_Clicked(object sender, EventArgs e)
     {
-
+        await Navigation.PopModalAsync();
     }
 
-    private void PostCommunity_Clicked(object sender, EventArgs e)
+    private async void PostCommunity_Clicked(object sender, EventArgs e)
     {
-
+        await Navigation.PushModalAsync(new CommunityPost());
     }
 }

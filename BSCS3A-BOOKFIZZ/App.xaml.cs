@@ -7,6 +7,9 @@
             InitializeComponent();
 
             MainPage = new AppShell();
+            MainPage = new NavigationPage(new SearchPage());
+            MainPage = new NavigationPage(new CommunityPost());
+            MainPage = new NavigationPage(new CommunityPage());
             MainPage = new NavigationPage(new ForgotPass());
             MainPage = new NavigationPage(new AccountPage());
             MainPage = new NavigationPage(new LogIn());

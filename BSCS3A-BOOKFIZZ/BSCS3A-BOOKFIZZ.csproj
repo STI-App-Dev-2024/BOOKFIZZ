@@ -113,6 +113,9 @@
 	  <MauiXaml Update="NotificationSettings.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="SearchPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="SignUp1.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>

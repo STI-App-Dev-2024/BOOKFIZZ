@@ -32,7 +32,7 @@ AbsoluteLayout.LayoutBounds="-0.1,0.1,170,-90"/>
 
         <Label
 Text="Community"
-FontSize="25"
+FontSize="20"
 FontFamily="Lusitana"
 TextColor="White"
 AbsoluteLayout.LayoutFlags="PositionProportional"
@@ -91,6 +91,8 @@ AbsoluteLayout.LayoutBounds ="0.5, 1, 0.9, 660"/>
         AbsoluteLayout.LayoutBounds="0.5,1,430,365"/>
 
         <ImageButton
+            x:Name="AddImagePost"
+            Clicked="AddImagePost_Clicked"
         Source="picc.png"
         WidthRequest="35"
         HeightRequest="35"
@@ -100,6 +102,7 @@ AbsoluteLayout.LayoutBounds ="0.5, 1, 0.9, 660"/>
 
         <Button
         x:Name="PostBtn"
+        Clicked="PostBtn_Clicked"
         Text="Post"
         FontSize="20"
         BackgroundColor="#000000"
