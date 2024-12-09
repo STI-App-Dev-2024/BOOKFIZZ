@@ -43,17 +43,39 @@
         AbsoluteLayout.LayoutFlags="PositionProportional"
         AbsoluteLayout.LayoutBounds="0.63,0,500,430"/>
 
-        <Button
-        x:Name="AddPicture"
-        Clicked="AddPicture_Clicked"
-        WidthRequest="100"
-        HeightRequest="100"
-        CornerRadius="50"
-        BackgroundColor="White"
-        BorderColor="Black"
-        AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="2.9,0, 400,620"
-        ImageSource="plus.png"/>
+        <VerticalStackLayout 
+            
+            Spacing="20" 
+            Padding="30">
+            <!-- Circular Profile Image -->
+            <Frame 
+                HeightRequest="110" 
+                WidthRequest="110"
+                CornerRadius="100"
+                HasShadow="False"
+                BorderColor="White"
+                BackgroundColor="White"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                Margin="-50,225,10,100">
+                
+                <Image 
+                   x:Name="SelectedImage"
+                   Aspect="AspectFill"
+                   HeightRequest="110"
+                   WidthRequest="110" />
+            
+            </Frame>
+
+            <!-- Upload Button -->
+            <Button 
+                ImageSource="plus.png"
+                IsVisible="True"
+                Background="Transparent"
+                Clicked="OnUploadButtonClicked"
+                HorizontalOptions="Center"
+                Margin="10,-210,70,500"/>
+        </VerticalStackLayout>
 
         <Label
         Text="Select Profile"
@@ -87,10 +109,10 @@
         Placeholder="Enter First Name"
         PlaceholderColor="#80000000"
         FontSize="20"
-        FontFamily="Lusitana"
+        FontFamily="LusitanaReg"
         TextColor="Black"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="-0.30,-2.4,400,890"/>
+        AbsoluteLayout.LayoutBounds="-0.30,-2.38,400,890"/>
 
         <Label
         Text="Middle Name"
@@ -116,9 +138,9 @@
         PlaceholderColor="#80000000"
         TextColor="Black"
         FontSize="20" 
-        FontFamily="Lusitana"
+        FontFamily="LusitanaReg"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="-0.30,-2.5,400,915"/>
+        AbsoluteLayout.LayoutBounds="-0.30,-2.49,400,915"/>
 
         <Label
         Text="Last Name"
@@ -144,9 +166,9 @@
         TextColor="Black"
         PlaceholderColor="#80000000"
         FontSize="20"
-        FontFamily="Lusitana"
+        FontFamily="LusitanaReg"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="-0.35,-2.5,400,946"/>
+        AbsoluteLayout.LayoutBounds="-0.35,-2.49,400,946"/>
 
         <Button
         x:Name="NextBtn"

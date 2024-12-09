@@ -14,8 +14,8 @@ public partial class Notification : ContentPage
         await Navigation.PopModalAsync();
     }
 
-    private void NotifSetting_Clicked(object sender, EventArgs e)
+    private async void NotifSetting_Clicked(object sender, EventArgs e)
     {
-
+        await Navigation.PushModalAsync(new NotificationSettings());
     }
 }

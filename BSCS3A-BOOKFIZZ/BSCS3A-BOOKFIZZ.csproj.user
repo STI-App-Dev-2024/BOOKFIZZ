@@ -18,6 +18,9 @@
     <MauiXaml Update="AccountPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="Categories.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="CommunityPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
@@ -34,9 +37,6 @@
       <SubType>Designer</SubType>
     </MauiXaml>
     <MauiXaml Update="NotificationSettings.xaml">
-      <SubType>Designer</SubType>
-    </MauiXaml>
-    <MauiXaml Update="SearchPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
     <MauiXaml Update="SignUp1.xaml">

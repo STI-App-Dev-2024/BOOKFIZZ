@@ -11,57 +11,73 @@
             base.OnAppearing();
             NavigationPage.SetHasNavigationBar(this, false);
         }
-        
-        private async void Notif_Clicked(object sender, EventArgs e)
-        {
-            await Navigation.PushModalAsync(new Notification());
 
-        }
-
-        private void Category_Clicked(object sender, EventArgs e)
-        {
-
-        }
-
-        private async void Profile_Clicked(object sender, EventArgs e)
+        private async void profileImage_Clicked(object sender, EventArgs e)
         {
             await Navigation.PushModalAsync(new AccountPage());
         }
+        
 
-        private async void Search_Clicked(object sender, EventArgs e)
+        private async void Category_btn_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PushModalAsync(new SearchPage());
+            await Navigation.PushModalAsync(new Categories());
         }
 
-        private void Home_Clicked(object sender, EventArgs e)
+        private async void Notification_btn_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushModalAsync(new Notification());
+        }
+        
+
+        private void searchBtn_SearchButtonPressed(object sender, EventArgs e)
         {
 
         }
 
-        private async void Community_Clicked(object sender, EventArgs e)
+        private void homeBtn_Clicked(object sender, EventArgs e)
+        {
+
+        }
+
+        private async void CommunityBtn_Clicked(object sender, EventArgs e)
         {
             await Navigation.PushModalAsync(new CommunityPage());
         }
+        
 
-        private void createadd_Clicked(object sender, EventArgs e)
+        private void AddBtn_Clicked(object sender, EventArgs e)
         {
 
         }
 
-        private void Message_Clicked(object sender, EventArgs e)
+        private void messageBtn_Clicked(object sender, EventArgs e)
         {
 
         }
 
-        private void Library_Clicked(object sender, EventArgs e)
+        private void LibraryBtn_Clicked(object sender, EventArgs e)
         {
 
         }
 
-        private async void TapGestureRecognizer_Tapped(object sender, TappedEventArgs e)
+        private void ABtn_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PushModalAsync(new SearchPage());
+
+        }
+
+        private void P1Btn_Clicked(object sender, EventArgs e)
+        {
+
+        }
+
+        private void aBtN_Clicked_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void R1Btn_Clicked(object sender, EventArgs e)
+        {
+
         }
     }
-
 }

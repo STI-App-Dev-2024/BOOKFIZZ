@@ -66,10 +66,10 @@ AbsoluteLayout.LayoutBounds="0.63,0,500,430"/>
         Placeholder="Enter username"
         PlaceholderColor="#80000000"
         FontSize="20"
-        FontFamily="Lusitana"
+        FontFamily="LusitanaReg"
         TextColor="Black"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="-0.3,0.52,400,75"/>
+        AbsoluteLayout.LayoutBounds="-0.3,0.516,400,75"/>
 
         <Label
         Text="Email"
@@ -94,10 +94,10 @@ AbsoluteLayout.LayoutBounds="0.63,0,500,430"/>
         Placeholder="Enter your email"
         PlaceholderColor="#80000000"
         FontSize="20"
-        FontFamily="Lusitana"
+        FontFamily="LusitanaReg"
         TextColor="Black"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="-0.3,-5.2,400,801"/>
+        AbsoluteLayout.LayoutBounds="-0.3,-5.15,400,801"/>
 
         <Label
         Text="Create Password"
@@ -124,9 +124,9 @@ AbsoluteLayout.LayoutBounds="0.63,0,500,430"/>
         PlaceholderColor="#80000000"
         FontSize="20"
         TextColor="Black"
-        FontFamily="Lusitana"
+        FontFamily="LusitanaReg"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="-0.30,-2.5,400,915"/>
+        AbsoluteLayout.LayoutBounds="-0.30,-2.49,400,915"/>
 
         <ImageButton
         x:Name="CreatePassEye"
@@ -161,10 +161,10 @@ AbsoluteLayout.LayoutBounds="0.63,0,500,430"/>
         Placeholder="Re-enter Password"
         PlaceholderColor="#80000000"
         FontSize="20"
-        FontFamily="Lusitana"
+        FontFamily="LusitanaReg"
         TextColor="Black"
         AbsoluteLayout.LayoutFlags="PositionProportional"
-        AbsoluteLayout.LayoutBounds="-0.35,-0.9,400,1345"/>
+        AbsoluteLayout.LayoutBounds="-0.35,-0.9,400,1342"/>
 
         <ImageButton
         x:Name="reentereye"

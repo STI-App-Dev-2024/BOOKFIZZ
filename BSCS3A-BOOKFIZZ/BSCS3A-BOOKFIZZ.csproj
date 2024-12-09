@@ -78,7 +78,6 @@
 	  <None Remove="Resources\Images\notfisetting.png" />
 	  <None Remove="Resources\Images\peng.png" />
 	  <None Remove="Resources\Images\picc.png" />
-	  <None Remove="Resources\Images\plus.png" />
 	  <None Remove="Resources\Images\post.png" />
 	  <None Remove="Resources\Images\prof.png" />
 	  <None Remove="Resources\Images\see.png" />
@@ -93,6 +92,9 @@
 
 	<ItemGroup>
 	  <MauiXaml Update="AccountPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Categories.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="CommunityPage.xaml">
@@ -111,9 +113,6 @@
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="NotificationSettings.xaml">
-	    <Generator>MSBuild:Compile</Generator>
-	  </MauiXaml>
-	  <MauiXaml Update="SearchPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="SignUp1.xaml">

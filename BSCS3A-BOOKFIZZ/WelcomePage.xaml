@@ -69,7 +69,7 @@
             <Label
             WidthRequest="326"
             Text="You’ve found your new home! At Bookfizz, we believe that every story deserves to shine. Whether you’re a reader seeking new adventures or a writer ready to share your world, you’ll find it all here!"
-            FontFamily="Lusitana"
+            FontFamily="LusitanaReg"
             FontSize="17.5"
             TextColor="#3A3A3A"
             Grid.Row="1"
@@ -79,12 +79,12 @@
             Text="Already have an account?"
             TextColor="#3B394D"
             FontSize="15" 
-            FontFamily="Lusitana"
+            FontFamily="LusitanaReg"
             Grid.Row="2"
             Margin="60,30,170,0"/>
 
             <Label
-                x:Name="LogInBtn"
+            x:Name="LogInBtn"
             Text="Log In"
             FontAttributes="Bold"
             TextColor="#3B394D"

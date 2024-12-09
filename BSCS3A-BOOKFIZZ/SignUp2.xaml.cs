@@ -70,8 +70,13 @@ namespace BSCS3A_BOOKFIZZ
                 return;
             }
 
-            // Simulate account creation
-            await DisplayAlert("Success", $"Account created for {username}!", "OK");
+            bool showAlertAndNavigate = false; // Set to true if you want to show alert and navigate
+
+            if (showAlertAndNavigate)
+
+                // Simulate account creation
+                await DisplayAlert("Success", $"Account created for {username}!", "OK");
+            
             Navigation.PushModalAsync(new MainPage());
 
             // Reset fields after successful registration

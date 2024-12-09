@@ -7,9 +7,9 @@ public partial class NotificationSettings : ContentPage
 		InitializeComponent();
 	}
 
-    private void backnotifSetting_Clicked(object sender, EventArgs e)
+    private async void backnotifSetting_Clicked(object sender, EventArgs e)
     {
-
+        await Navigation.PopModalAsync();
     }
 
     private void friendreqToggle_Toggled(object sender, ToggledEventArgs e)

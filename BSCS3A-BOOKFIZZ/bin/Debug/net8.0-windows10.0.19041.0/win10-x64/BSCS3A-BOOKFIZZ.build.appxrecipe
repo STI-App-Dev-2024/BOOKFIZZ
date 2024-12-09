@@ -40,48 +40,6 @@
     <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\bokplasshSplashScreen.scale-100.png">
-      <PackagePath>bokplasshSplashScreen.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\bokplasshSplashScreen.scale-125.png">
-      <PackagePath>bokplasshSplashScreen.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\bokplasshSplashScreen.scale-150.png">
-      <PackagePath>bokplasshSplashScreen.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\bokplasshSplashScreen.scale-200.png">
-      <PackagePath>bokplasshSplashScreen.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\bokplasshSplashScreen.scale-400.png">
-      <PackagePath>bokplasshSplashScreen.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\IrishGrover-Regular.ttf">
-      <PackagePath>IrishGrover-Regular.ttf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Judson-Regular.ttf">
-      <PackagePath>Judson-Regular.ttf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Lusitana-Bold.ttf">
-      <PackagePath>Lusitana-Bold.ttf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
-      <PackagePath>OpenSans-Regular.ttf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
-      <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\prof.scale-100.png">
-      <PackagePath>prof.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\com.scale-100.png">
-      <PackagePath>com.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\see.scale-100.png">
-      <PackagePath>see.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\add.scale-100.png">
-      <PackagePath>add.scale-100.png</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
@@ -220,58 +178,193 @@
     <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\eye.scale-100.png">
-      <PackagePath>eye.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\xx.scale-100.png">
+      <PackagePath>xx.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logonotif.scale-100.png">
-      <PackagePath>logonotif.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\see.scale-100.png">
+      <PackagePath>see.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\notfisetting.scale-100.png">
-      <PackagePath>notfisetting.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\right.scale-100.png">
+      <PackagePath>right.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bel.scale-100.png">
-      <PackagePath>bel.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\r6.scale-100.png">
+      <PackagePath>r6.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\plus.scale-100.png">
-      <PackagePath>plus.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\p9.scale-100.png">
+      <PackagePath>p9.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\comm.scale-100.png">
-      <PackagePath>comm.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\p8.scale-100.png">
+      <PackagePath>p8.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\picc.scale-100.png">
-      <PackagePath>picc.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\p7.scale-100.png">
+      <PackagePath>p7.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\backnotif.scale-100.png">
-      <PackagePath>backnotif.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\p6.scale-100.png">
+      <PackagePath>p6.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\p5.scale-100.png">
+      <PackagePath>p5.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\p4.scale-100.png">
+      <PackagePath>p4.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\p3.scale-100.png">
+      <PackagePath>p3.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\p2.scale-100.png">
+      <PackagePath>p2.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\mes.scale-100.png">
       <PackagePath>mes.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\post.scale-100.png">
-      <PackagePath>post.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logonotif.scale-100.png">
+      <PackagePath>logonotif.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\lib.scale-100.png">
       <PackagePath>lib.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\book.scale-100.png">
-      <PackagePath>book.scale-100.png</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-100.png">
       <PackagePath>home.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\not.scale-100.png">
-      <PackagePath>not.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\his.scale-100.png">
+      <PackagePath>his.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\g.scale-100.png">
+      <PackagePath>g.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\eye.scale-100.png">
+      <PackagePath>eye.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\e.scale-100.png">
+      <PackagePath>e.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\com.scale-100.png">
+      <PackagePath>com.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\cate.scale-100.png">
+      <PackagePath>cate.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\book.scale-100.png">
+      <PackagePath>book.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\back.scale-100.png">
       <PackagePath>back.scale-100.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\b.scale-100.png">
+      <PackagePath>b.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\d.scale-100.png">
+      <PackagePath>d.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\comm.scale-100.png">
+      <PackagePath>comm.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\c7.scale-100.png">
+      <PackagePath>c7.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\c6.scale-100.png">
+      <PackagePath>c6.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\c10.scale-100.png">
+      <PackagePath>c10.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\c1.scale-100.png">
+      <PackagePath>c1.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bely.scale-100.png">
+      <PackagePath>bely.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\backnotif.scale-100.png">
+      <PackagePath>backnotif.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\add.scale-100.png">
+      <PackagePath>add.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\r5.scale-100.png">
+      <PackagePath>r5.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\r4.scale-100.png">
+      <PackagePath>r4.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\r3.scale-100.png">
+      <PackagePath>r3.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\r2.scale-100.png">
+      <PackagePath>r2.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\p1.scale-100.png">
+      <PackagePath>p1.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\out.scale-100.png">
+      <PackagePath>out.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\notfisetting.scale-100.png">
+      <PackagePath>notfisetting.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\not.scale-100.png">
+      <PackagePath>not.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\c3.scale-100.png">
+      <PackagePath>c3.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\c2.scale-100.png">
+      <PackagePath>c2.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\c.scale-100.png">
+      <PackagePath>c.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bel.scale-100.png">
+      <PackagePath>bel.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\a.scale-100.png">
+      <PackagePath>a.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\r1.scale-100.png">
+      <PackagePath>r1.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\prof.scale-100.png">
+      <PackagePath>prof.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\post.scale-100.png">
+      <PackagePath>post.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\plus.scale-100.png">
+      <PackagePath>plus.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\picc.scale-100.png">
+      <PackagePath>picc.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\peng.scale-100.png">
+      <PackagePath>peng.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\follow.scale-100.png">
+      <PackagePath>follow.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\f.scale-100.png">
+      <PackagePath>f.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\c9.scale-100.png">
+      <PackagePath>c9.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\c8.scale-100.png">
+      <PackagePath>c8.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\c5.scale-100.png">
+      <PackagePath>c5.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\c4.scale-100.png">
+      <PackagePath>c4.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\accprof.scale-100.png">
+      <PackagePath>accprof.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\micka\source\repos\BSCS3A-BOOKFIZZ\BSCS3A-BOOKFIZZ\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\BSCS3A-BOOKFIZZ.deps.json">
       <PackagePath>BSCS3A-BOOKFIZZ.deps.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.44\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.54\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.44\lib\net8.0\WinRT.Runtime.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.54\lib\net8.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.extensions.configuration\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.dll">
@@ -307,25 +400,25 @@
     <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.io.recyclablememorystream\3.0.1\lib\net6.0\Microsoft.IO.RecyclableMemoryStream.dll">
       <PackagePath>Microsoft.IO.RecyclableMemoryStream.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.compatibility\8.0.82\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.compatibility\8.0.83\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.dll">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.dll">
       <PackagePath>Microsoft.Maui.Controls.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.xaml\8.0.82\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Xaml.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.xaml\8.0.83\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Xaml.dll">
       <PackagePath>Microsoft.Maui.Controls.Xaml.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.core\8.0.82\lib\net8.0-windows10.0.19041\Microsoft.Maui.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.core\8.0.83\lib\net8.0-windows10.0.19041\Microsoft.Maui.dll">
       <PackagePath>Microsoft.Maui.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.essentials\8.0.82\lib\net8.0-windows10.0.19041\Microsoft.Maui.Essentials.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.essentials\8.0.83\lib\net8.0-windows10.0.19041\Microsoft.Maui.Essentials.dll">
       <PackagePath>Microsoft.Maui.Essentials.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.graphics\8.0.82\lib\net8.0-windows10.0.19041\Microsoft.Maui.Graphics.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.graphics\8.0.83\lib\net8.0-windows10.0.19041\Microsoft.Maui.Graphics.dll">
       <PackagePath>Microsoft.Maui.Graphics.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.graphics.win2d.winui.desktop\8.0.82\lib\net8.0-windows10.0.19041\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.graphics.win2d.winui.desktop\8.0.83\lib\net8.0-windows10.0.19041\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll">
       <PackagePath>Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.windowsappsdk\1.5.240627000\lib\net6.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll">
@@ -373,106 +466,106 @@
     <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.windowsappsdk\1.5.240627000\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\ca\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\ca\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ca\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\cs\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\cs\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>cs\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\da\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\da\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>da\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\de\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\de\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>de\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\el\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\el\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>el\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\es\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\es\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>es\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\fi\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\fi\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>fi\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\fr\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\fr\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>fr\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\he\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\he\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>he\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\hi\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\hi\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>hi\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\hr\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\hr\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>hr\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\hu\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\hu\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>hu\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\id\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\id\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>id\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\it\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\it\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>it\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\ja\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\ja\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ja\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\ko\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\ko\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ko\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\ms\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\ms\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ms\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\nb\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\nb\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>nb\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\nl\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\nl\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>nl\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\pl\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\pl\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>pl\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\pt-BR\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\pt-BR\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>pt-BR\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\pt\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\pt\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>pt\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\ro\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\ro\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ro\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\ru\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\ru\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ru\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\sk\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\sk\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>sk\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\sv\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\sv\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>sv\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\th\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\th\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>th\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\tr\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\tr\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>tr\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\uk\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\uk\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>uk\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\vi\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\vi\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>vi\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\zh-HK\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\zh-HK\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>zh-HK\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\zh-Hans\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\zh-Hans\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>zh-Hans\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\zh-Hant\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\zh-Hant\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>zh-Hant\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.graphics.win2d\1.2.0\runtimes\win-x64\native\Microsoft.Graphics.Canvas.dll">
@@ -481,13 +574,22 @@
     <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.windowsappsdk\1.5.240627000\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.compatibility\8.0.82\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
+    <AppxPackagedFile Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\XamlDiagnostics\Mobile\Microsoft.Maui.Controls.HotReload.Forms.dll">
+      <PackagePath>Microsoft.Maui.Controls.HotReload.Forms.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\XamlDiagnostics\Mobile\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll">
+      <PackagePath>Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\XamlDiagnostics\Mobile\Microsoft.VisualStudio.DesignTools.TapContract.dll">
+      <PackagePath>Microsoft.VisualStudio.DesignTools.TapContract.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.compatibility\8.0.83\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.pri">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.pri">
       <PackagePath>Microsoft.Maui.Controls.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.core\8.0.82\lib\net8.0-windows10.0.19041\Microsoft.Maui.pri">
+    <AppxPackagedFile Include="C:\Users\micka\.nuget\packages\microsoft.maui.core\8.0.83\lib\net8.0-windows10.0.19041\Microsoft.Maui.pri">
       <PackagePath>Microsoft.Maui.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

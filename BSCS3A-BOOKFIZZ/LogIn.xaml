@@ -66,10 +66,10 @@
             Placeholder="Enter Email or Username"
             PlaceholderColor="#80000000"
             FontSize="20"
-            FontFamily="Lusitana"
+            FontFamily="LusitanaReg"
             TextColor="Black"
             AbsoluteLayout.LayoutFlags="PositionProportional"
-            AbsoluteLayout.LayoutBounds="-0.3,21.1, 400,700"/>
+            AbsoluteLayout.LayoutBounds="-0.3,20.9, 400,700"/>
 
         <Label
             Text="Password"
@@ -95,10 +95,10 @@
             Placeholder="Enter Your Password"
             PlaceholderColor="#80000000"
             FontSize="20"
-            FontFamily="Lusitana"
+            FontFamily="LusitanaReg"
             TextColor="Black"
             AbsoluteLayout.LayoutFlags="PositionProportional"
-            AbsoluteLayout.LayoutBounds="-0.3,-0.423, 400,2000"/>
+            AbsoluteLayout.LayoutBounds="-0.3,-0.420, 400,2000"/>
 
         <ImageButton
             x:Name="seeBtn"
