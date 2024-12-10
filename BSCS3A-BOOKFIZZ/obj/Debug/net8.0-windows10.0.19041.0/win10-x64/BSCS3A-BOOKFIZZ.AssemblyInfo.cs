@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BSCS3A-BOOKFIZZ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+e4ad7e8a6d31ef6342687ae8085d02938f343840")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+e908bad489be2bcbeb76e8203cce8f4bc8d7129e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BSCS3A-BOOKFIZZ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BSCS3A-BOOKFIZZ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

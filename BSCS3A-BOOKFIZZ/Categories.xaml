@@ -4,18 +4,21 @@
              x:Class="BSCS3A_BOOKFIZZ.Categories"
              Title="Categories"
              BackgroundColor="#3B394D">
+    
+    <Grid>
 
-
-
-    <ScrollView
-        
-        VerticalScrollBarVisibility="Never">
+        <Grid.RowDefinitions>
+            
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            
+        </Grid.RowDefinitions>
 
         <StackLayout 
-            
+            Grid.Row="0" 
             Padding="10">
 
-            <BoxView
+        <BoxView
     HeightRequest="1"
     WidthRequest="600"
     Color="White"
@@ -42,17 +45,27 @@
      FontFamily="Lusitana"
      TextColor="White"
      Margin="75,-40,10,10"/>
+            
 
+        </StackLayout>
+        
+        
 
-            <!-- Categories Grid -->
+        <ScrollView 
+                Grid.Row="1" 
+                VerticalScrollBarVisibility="Never">
+
+            <StackLayout 
+                Padding="10">
+                
             <Grid 
-                ColumnDefinitions="*,*"
+                  ColumnDefinitions="*,*"
                   RowSpacing="20" 
                   ColumnSpacing="10" 
-                  Margin="0,1,0,-270">
+                  Margin="0,10,0,-250">
                
-                <!-- First Row -->
                 <Grid.RowDefinitions>
+                    
                     <RowDefinition Height="Auto" />
                     <RowDefinition Height="Auto" />
                     <RowDefinition Height="Auto" />
@@ -60,48 +73,48 @@
                     
                 </Grid.RowDefinitions>
 
-                <!-- Category Items -->
+                
                 <ImageButton
                     Source="c1.png"
                     WidthRequest="160"
                     HeightRequest="160"
                     Aspect="AspectFill"
-                    Margin="75,20,80,900"/>
+                    Margin="75,-10,80,900"/>
                 
                 <ImageButton
                     Source="c2.png"
                     WidthRequest="155"
                     HeightRequest="155"
                     Aspect="AspectFill"
-                    Margin="430,15,80,900"/>
+                    Margin="430,-15,80,900"/>
 
                 <ImageButton
                     Source="c3.png"
                     WidthRequest="155"
                     HeightRequest="155"
                     Aspect="AspectFill"
-                    Margin="79,-450,80,100"/>
+                    Margin="79,-470,80,100"/>
 
                 <ImageButton
                     Source="c4.png"
                     WidthRequest="160"
                     HeightRequest="160"
                     Aspect="AspectFill"
-                    Margin="430,-445,80,100"/>
+                    Margin="430,-465,80,100"/>
 
                 <ImageButton
                     Source="c5.png"
                     WidthRequest="187"
                     HeightRequest="187"
                     Aspect="AspectFill"
-                    Margin="435,-130,80,100"/>
+                    Margin="435,-145,80,100"/>
 
                 <ImageButton
                     Source="c6.png"
                     WidthRequest="158"
                     HeightRequest="158"
                     Aspect="AspectFill"
-                    Margin="79,-104,80,100"/>
+                    Margin="79,-115,80,100"/>
 
                 <ImageButton
                     Source="c7.png"
@@ -122,7 +135,7 @@
                     WidthRequest="158"
                     HeightRequest="158"
                     Aspect="AspectFill"
-                    Margin="79,600,80,100"/>
+                    Margin="79,605,80,100"/>
 
 
                 <ImageButton
@@ -130,9 +143,10 @@
                     WidthRequest="158"
                     HeightRequest="158"
                     Aspect="AspectFill"
-                    Margin="429,600,80,100"/>
+                    Margin="429,605,80,100"/>
 
             </Grid>
         </StackLayout>
     </ScrollView>
+  </Grid>
 </ContentPage>

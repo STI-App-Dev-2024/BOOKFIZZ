@@ -31,6 +31,7 @@ obj\Debug\net8.0-android\resizetizer\r\drawable\his.png
 obj\Debug\net8.0-android\resizetizer\r\drawable\home.png
 obj\Debug\net8.0-android\resizetizer\r\drawable\lib.png
 obj\Debug\net8.0-android\resizetizer\r\drawable\logonotif.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\mdi_heart.png
 obj\Debug\net8.0-android\resizetizer\r\drawable\mes.png
 obj\Debug\net8.0-android\resizetizer\r\drawable\not.png
 obj\Debug\net8.0-android\resizetizer\r\drawable\notfisetting.png
@@ -46,9 +47,12 @@ obj\Debug\net8.0-android\resizetizer\r\drawable\p8.png
 obj\Debug\net8.0-android\resizetizer\r\drawable\p9.png
 obj\Debug\net8.0-android\resizetizer\r\drawable\peng.png
 obj\Debug\net8.0-android\resizetizer\r\drawable\picc.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\pic_comm.png
 obj\Debug\net8.0-android\resizetizer\r\drawable\plus.png
 obj\Debug\net8.0-android\resizetizer\r\drawable\post.png
 obj\Debug\net8.0-android\resizetizer\r\drawable\prof.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\prof_com.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\prof_comm.png
 obj\Debug\net8.0-android\resizetizer\r\drawable\r1.png
 obj\Debug\net8.0-android\resizetizer\r\drawable\r2.png
 obj\Debug\net8.0-android\resizetizer\r\drawable\r3.png
@@ -57,6 +61,8 @@ obj\Debug\net8.0-android\resizetizer\r\drawable\r5.png
 obj\Debug\net8.0-android\resizetizer\r\drawable\r6.png
 obj\Debug\net8.0-android\resizetizer\r\drawable\right.png
 obj\Debug\net8.0-android\resizetizer\r\drawable\see.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\tabler_share.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\uil_comments.png
 obj\Debug\net8.0-android\resizetizer\r\drawable\xx.png
 obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\appicon.xml
 obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\appicon_round.xml
