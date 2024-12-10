@@ -9,6 +9,6 @@ public partial class Categories : ContentPage
 
     private async void backCategories_Clicked(object sender, EventArgs e)
     {
-		await Navigation.PopModalAsync();
+        await Navigation.PopModalAsync();
     }
 }
